@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Latest Posts
-description: "A simple and clean responsive Jekyll theme for words and photos."
-tags: [Jekyll, theme, themes, responsive, blog, minimalism]
+title: 
+description: "Salim Virani"
+tags: []
 ---
 
 <ul class="post-list">
+  <li><article><a href="http://SaintSal.com">My Blog<span class="entry-date"></span></a></article></li>
+  <li><article><a href="http://medium.com/@SaintSal">Medium <span class="entry-date"></span></a></article></li>
+  <li><article><a href="http://helpmewrite.co/people/saintsal/ideas">Help Me Write<span class="entry-date"></span></a></article></li>
 {% for post in site.posts limit:10 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
