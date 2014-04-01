@@ -31,6 +31,7 @@ bing_verify:
 links:
   - title: Founder-Centric
     url: http://foundercentric.com
+    external: true
   - title: Leancamp
     url: http://leancamp.co
     external: true
