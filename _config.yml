@@ -1,25 +1,22 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Salim Virani
+description:      a hacker and a gentleman.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://saintsal.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Salim Virani
   avatar:         bio-photo.jpg
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        http://twitter.com/saintsal
+  facebook:       http://facebook.com/saintsal
+  github:         http://github.com/saintsal
+  linkedin:       http://linkedin.com/in/salimvirani
+           
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -38,8 +35,10 @@ links:
     url: /articles/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Founder-Centric
+    url: http://foundercentric.com
+  - title: Leancamp
+    url: http://leancamp.co
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
