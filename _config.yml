@@ -1,8 +1,8 @@
 title:            Salim Virani
 description:      a hacker and a gentleman.
-logo:             site-logo.png
-disqus_shortname: 
-search:           true
+logo:             walky.png
+disqus_shortname: SaintSal
+search:           false 
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://saintsal.github.io
 
@@ -10,7 +10,7 @@ url:              http://saintsal.github.io
 owner:
   name:           Salim Virani
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          smile@saintsal.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        http://twitter.com/saintsal
   facebook:       http://facebook.com/saintsal
@@ -31,8 +31,6 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
   - title: Theme Setup
     url: /theme-setup/
   - title: Founder-Centric
