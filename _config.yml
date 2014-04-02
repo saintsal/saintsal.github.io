@@ -16,6 +16,7 @@ owner:
   facebook:       saintsal
   github:         saintsal
   linkedin:       salimvirani
+  email:	  smile@saintsal.com
            
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
@@ -29,19 +30,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Leancamp
-    url: http://leancamp.co
-    external: true
-  - title: Founder-Centric
-    url: http://foundercentric.com
-    external: true
-  - title: Village Accelerator
-    url: http://villageaccelerator.org
+  - title: Email Me
+    url: mailto:smile@saintsal.com
     external: true
   - title: Blog
     url: http://saintsal.com
     external: true
-  - title: Sign up
+  - title: Newsletter
     url: http://eepurl.com/JoTLL
     external: true
 
