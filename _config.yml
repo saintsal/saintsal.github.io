@@ -12,10 +12,10 @@ owner:
   avatar:         bio-photo.jpg
   email:          smile@saintsal.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        http://twitter.com/saintsal
-  facebook:       http://facebook.com/saintsal
-  github:         http://github.com/saintsal
-  linkedin:       http://linkedin.com/in/salimvirani
+  twitter:        saintsal
+  facebook:       saintsal
+  github:         saintsal
+  linkedin:       salimvirani
            
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
