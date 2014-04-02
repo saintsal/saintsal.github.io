@@ -38,6 +38,12 @@ links:
   - title: Village Accelerator
     url: http://villageaccelerator.org
     external: true
+  - title: Blog
+    url: http://saintsal.com
+    external: true
+  - title: Sign up
+    url: http://eepurl.com/JoTLL
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
