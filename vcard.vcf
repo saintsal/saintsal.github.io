@@ -2,7 +2,6 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Salim Virani
 N:Virani;Salim;;;
-EMAIL;TYPE=INTERNET:salim@foundercentric.com
 EMAIL;TYPE=INTERNET:salim@saintsal.com
 X-JABBER:saintsal@swissjabber.ch
 TEL;TYPE=WORK:+44 1984 250 000
