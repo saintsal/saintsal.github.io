@@ -38,9 +38,10 @@ links:
   - title: Newsletter
     url: http://eepurl.com/JoTLL
     external: true
-  - title: Book
-    url: http://decisionhacks.co
-    external: true
+  - title: Books
+    url: #books
+ - title: Tools
+    url: #tools
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
