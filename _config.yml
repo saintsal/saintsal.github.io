@@ -4,7 +4,7 @@ logo:             walky.png
 disqus_shortname: SaintSal
 search:           false 
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://saintsal.github.io
+url:              http://salimvirani.com
 
 # Owner/author information
 owner:
@@ -30,9 +30,9 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Books
-    url: #books
+    url: '#books'
   - title: Tools
-    url: #tools
+    url: '#tools'
   - title: Blog
     url: http://saintsal.com
     external: true
