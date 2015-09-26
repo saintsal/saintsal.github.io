@@ -29,19 +29,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Email Me
-    url: mailto:smile@saintsal.com
-    external: true
+  - title: Books
+    url: #books
+  - title: Tools
+    url: #tools
   - title: Blog
     url: http://saintsal.com
     external: true
-  - title: Newsletter
-    url: http://eepurl.com/JoTLL
-    external: true
-  - title: Books
-    url: #books
- - title: Tools
-    url: #tools
+ 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
