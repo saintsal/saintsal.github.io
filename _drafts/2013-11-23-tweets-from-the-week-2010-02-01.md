@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Tweets from the week 2010-02-01"
+date:   2013-11-23 15:13:33
+tags:   
+---
+
+<ul class="aktt_tweet_digest">
+	<li>@<a href="http://twitter.com/pagedo">pagedo</a> I was chatting with @<a href="http://twitter.com/abc3d">abc3d</a> the other day about #LeanStartup. Glad to see it represented on the Digital Mission! <a href="http://twitter.com/saintsal/statuses/8219704087">#</a></li>
+	<li>How to use your entrepreneurial vision to direct learning. (1st of a series, so pls feedback!) #<a href="http://search.twitter.com/search?q=%23leanstartup">leanstartup</a> <a href="http://is.gd/74xmR" rel="nofollow">http://is.gd/74xmR</a> <a href="http://twitter.com/saintsal/statuses/8232756745">#</a></li>
+	<li>@<a href="http://twitter.com/PageDo">PageDo</a> Are you coming to the Lean Startup pub meetup next week? <a href="http://twitter.com/PageDo/statuses/8235287106">in reply to PageDo</a> <a href="http://twitter.com/saintsal/statuses/8236259754">#</a></li>
+	<li>Unboxing my new Kodak Zi8 camera on the train. I feel like such a nerd. <a href="http://twitter.com/saintsal/statuses/8236716611">#</a></li>
+	<li>@<a href="http://twitter.com/Aronado">Aronado</a> depends on what you&#39;re doing. Measuring your conversion by source will help you decide. <a href="http://twitter.com/Aronado/statuses/8236629211">in reply to Aronado</a> <a href="http://twitter.com/saintsal/statuses/8236976729">#</a></li>
+	<li>RT @warblecamp: War·ble: n. a sound made by European Twitter devs when they work out the cost of going to @chirp: <a href="http://bit.ly/8INgUM" rel="nofollow">http://bit.ly/8INgUM</a> <a href="http://twitter.com/saintsal/statuses/8242524948">#</a></li>
+	<li>@<a href="http://twitter.com/Jonas_Forth">Jonas_Forth</a> Is it legal to dress so unfashionably in Scandanavia? <a href="http://twitter.com/Jonas_Forth/statuses/8241300113">in reply to Jonas_Forth</a> <a href="http://twitter.com/saintsal/statuses/8242644899">#</a></li>
+	<li>@<a href="http://twitter.com/smidgn">smidgn</a> Hey Jon - could I have a beta invite please? <a href="http://twitter.com/saintsal/statuses/8410185072">#</a></li>
+	<li>@<a href="http://twitter.com/PageDo">PageDo</a>  The Lean Startup London pub meetup is this Wednesday at Babble. @<a href="http://twitter.com/abc3d">abc3d</a> would be good to see you there too!  <a href="http://is.gd/7lSNa" rel="nofollow">http://is.gd/7lSNa</a> <a href="http://twitter.com/saintsal/statuses/8410294240">#</a></li>
+	<li>@<a href="http://twitter.com/jot">jot</a> Thanks!  And hope to see you again at the #<a href="http://search.twitter.com/search?q=%23LeanStartup">LeanStartup</a> meetup on Wednesday. <a href="http://twitter.com/jot/statuses/8410218067">in reply to jot</a> <a href="http://twitter.com/saintsal/statuses/8410918671">#</a></li>
+	<li>@<a href="http://twitter.com/tomball2">tomball2</a> Aha! I realized that I also met you with @<a href="http://twitter.com/davegray">davegray</a> when he spoke at Vizthink London a few years ago. <a href="http://twitter.com/tomball2/statuses/8405853475">in reply to tomball2</a> <a href="http://twitter.com/saintsal/statuses/8410974781">#</a></li>
+	<li>How Rework helped me make time to support a friend without costing my business. <a href="http://is.gd/7mkaE" rel="nofollow">http://is.gd/7mkaE</a> #<a href="http://search.twitter.com/search?q=%23leanstartup">leanstartup</a> (Thanks @<a href="http://twitter.com/dhh">dhh</a> &amp; @<a href="http://twitter.com/jasonfried">jasonfried</a>) <a href="http://twitter.com/saintsal/statuses/8415231949">#</a></li>
+	<li>Chatting about spacemakers &amp; financial sustainability models with artinavan.co.uk (@ The Prince Albert) <a href="http://4sq.com/bcqF4X" rel="nofollow">http://4sq.com/bcqF4X</a> <a href="http://twitter.com/saintsal/statuses/8421096805">#</a></li>
+	<li>Just added myself to the #leanstartup, #smallbusiness, and #entrepreneurship Twitter lists on <a href="http://twibes.com" rel="nofollow">http://twibes.com</a> <a href="http://twitter.com/saintsal/statuses/8454723358">#</a></li>
+	<li>Video: Clever pecha kucha - are constraints liberating? #<a href="http://search.twitter.com/search?q=%23leanstartup">leanstartup</a> #<a href="http://search.twitter.com/search?q=%23rework">rework</a> <a href="http://tumblr.com/xhn60e6bw" rel="nofollow">http://tumblr.com/xhn60e6bw</a> <a href="http://twitter.com/saintsal/statuses/8459459791">#</a></li>
+	<li>Just added myself to the <a href="http://wefollow.com" rel="nofollow">http://wefollow.com</a> twitter directory under:  #london_united_kingdom #<a href="http://search.twitter.com/search?q=%23leanstartup">leanstartup</a> #entrepreneurship #<a href="http://search.twitter.com/search?q=%23businessmodel">businessmodel</a> <a href="http://twitter.com/saintsal/statuses/8468991655">#</a></li>
+	<li>Playing with Yahoo Pipes to make a #<a href="http://search.twitter.com/search?q=%23leanstartup">leanstartup</a> link aggregator: @<a href="http://twitter.com/leanbot">leanbot</a> - I&#39;ll be tweaking it over the next few days. Feedback welcome. <a href="http://twitter.com/saintsal/statuses/8476843735">#</a></li>
+	<li>I favorited a YouTube video -- paidContent:UK - BBC Future Media &amp; Technology Controller Erik Huggers p... <a href="http://youtu.be/Smg_SKyoIU0?a" rel="nofollow">http://youtu.be/Smg_SKyoIU0?a</a> <a href="http://twitter.com/saintsal/statuses/8482413464">#</a></li>
+	<li>@<a href="http://twitter.com/Keidson">Keidson</a> My friend @<a href="http://twitter.com/thoughtleader1">thoughtleader1</a> wrote a book on permission-based cold-calling that&#39;s worked wonders for me: <a href="http://is.gd/7tYFo" rel="nofollow">http://is.gd/7tYFo</a> <a href="http://twitter.com/Keidson/statuses/8500808184">in reply to Keidson</a> <a href="http://twitter.com/saintsal/statuses/8502742913">#</a></li>
+	<li>@<a href="http://twitter.com/ericries">ericries</a> It was good chatting earlier. Thanks for your support - exciting times ahead! <a href="http://twitter.com/saintsal/statuses/8522718133">#</a></li>
+	<li>@<a href="http://twitter.com/rosskimbarovsky">rosskimbarovsky</a> Do you have any examples in mind that demonstrate this? <a href="http://twitter.com/rosskimbarovsky/statuses/8513881089">in reply to rosskimbarovsky</a> <a href="http://twitter.com/saintsal/statuses/8522859232">#</a></li>
+</ul>
+

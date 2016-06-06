@@ -1,0 +1,31 @@
+# main links
+main:
+
+side:
+  - title: "Founder of"
+    children:
+    - title: "Source Institute"
+      url: http://source.institute
+    - title: "Founder Centric"
+      url: http://foundercentric.com
+    - title: "Leancamp"
+      url: http://leancamp.net
+
+post:
+  - title: "Books"
+    children:
+    - title: "Decision Hacks"
+      url: http://decisionhacks.co
+    - title: "Mentor Impact"
+      url: http://mentorimpact.co
+    - title: "Accelerator Design Guide"
+      url: http://mentorimpact.co
+  - title: "Founder of"
+    children:
+    - title: "Source Institute"
+      url: http://source.institute
+    - title: "Founder Centric"
+      url: http://foundercentric.com
+    - title: "Leancamp"
+      url: http://leancamp.net
+
