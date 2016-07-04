@@ -79,8 +79,3 @@ We got on with our lives and I finished my kebab.
 
 
 
-
-
-
-
-Originally published at www.salimvirani.com on July 3, 2016.
