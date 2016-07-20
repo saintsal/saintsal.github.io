@@ -5,7 +5,7 @@ date:   2016-07-20 15:13:33
 tags:   business-models lean-startup leancamp
 ---
 
- (and how to make sense of it all)
+Lean Startup is full of competing thought-leaders and consultants, so I wrote this post to help you make sense of it all.
  
 It's important for founders to understand the background of Lean Startup, since it helps evaluate the strengths and weaknesses of the various approaches around it. They often seem incompatible or counter-intuitive, so this history will help you make sense of it and hopefully make more informed decisions.
 
@@ -40,7 +40,7 @@ But before we get to the book, let's go back and look at some of these influence
 When Eric was CTO of IMVU, he audited a Steve Blank course at Stanford.  It was a condition of Steve's investment, and Eric thought it was worth checking out; Steve had risen to fame by joining e.piphany and seeing it to an IPO. He was now an investor and teacher.
 
 Steve himself was also a startup iconoclast. As Steve was hustling for e.piphany in the 90s, he had noted that the conventional startup thinking at the time was basically, <em>raise a ton of money, then close your eyes and put the pedal to the metal</em>. He moved towards a more customer-savvy approach, to tackle the risks inherent with the long cycles of enterprise sales. <a href="http://steveblank.com">Customer Development</a> was born as a methodology for building tech companies focused on selling to big companies.
-Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed it's many steps.
+Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed it's many steps. (There are way more than four!)
 
 This is where concepts start to overlap. Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers.
 
