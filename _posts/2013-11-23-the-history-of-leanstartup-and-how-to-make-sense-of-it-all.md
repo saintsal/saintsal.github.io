@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The History Of Lean Startup"
-date:   2013-11-23 15:13:33
+date:   2016-07-20 15:13:33
 tags:   business-models lean-startup leancamp
 ---
 
@@ -9,7 +9,7 @@ tags:   business-models lean-startup leancamp
  
 It's important for founders to understand the background of Lean Startup, since it helps evaluate the strengths and weaknesses of the various approaches around it. They often seem incompatible or counter-intuitive, so this history will help you make sense of it and hopefully make more informed decisions.
 
-*(I originally wrote this in 2012, but updated it slightly in 2015.)*
+*(I originally wrote this in 2012, but updated it slightly in 2016.)*
 
 While <a href="http://startuplessonslearned.com">Eric Ries</a>, who coined the term Lean Startup, is preparing for the 3rd annual <a href="http://leanstartup.co">Lean Startup conference</a>, he tweets out a link to <a href="http://t.co/HT8ppCLH">"Standing On The Shoulders Of Giants" by Eliyahu Goldratt</a> – a testament to the great thinkers we founders are learning from, whether we know it or not!
 
