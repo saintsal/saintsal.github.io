@@ -83,17 +83,19 @@ By 2010, there were only a few people deeply connected to both Lean Startup and 
 <h2>Customer Development and Business Models</h2>
 In Steve Blank's first book, the 370-page <a href="http://www.amazon.co.uk/Four-Steps-Epiphany-Steven-Blank/dp/0976470705">Four Steps To The Epiphany</a>, the business model section was a vague single page. I'll paraphase - once you know you're solving a real customer pain, make sure your business model will make you money! If only it was that simple.
 
-Steve had yet to find a robust way to describe how to do this. As the momentum from the Leancamp community, brought the Lean Startup and <a href="http://businessmodelhub.com">Business Model Generation</a> communities together, Steve and Alex were drawn together as collaborators - turning into an eye-opening duo. Their work led to Steve's updated book <a href="http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302/ref=la_B007N71OSK_1_1?ie=UTF8&amp;qid=1354636318&amp;sr=1-1">The Startup Owners' Manual</a>, Stanford curriculum, the reworked <a href="http://startupweekend.org/2012/10/30/introducing-next/">Startup Weekend Next</a>, and more.  
+Steve had yet to find a robust way to describe how to do this. As the momentum from the Leancamp community, brought the Lean Startup and <a href="http://businessmodelhub.com">Business Model Generation</a> communities together, Steve and Alex were drawn together as collaborators.
 
-However, these programmes were frequently unsuccessful; most universities I know dropped this as their curriculum, and Startup Weekend quietly went back to the drawing board for their Next programme.
+Steve published a new book <a href="http://www.amazon.com/Startup-Owners-Manual-Step---Step/dp/0984999302/ref=la_B007N71OSK_1_1?ie=UTF8&amp;qid=1354636318&amp;sr=1-1">The Startup Owners' Manual</a>, Stanford curriculum, the reworked <a href="http://startupweekend.org/2012/10/30/introducing-next/">Startup Weekend Next</a>, and more.  However, these programmes were frequently unsuccessful; most universities I know dropped this as their curriculum, and Startup Weekend quietly went back to the drawing board for their Next programme.
+
 Following this, Alex independently released his second book, [Value Proposition Design](http://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050). It focused on creating value for customers,  pre-product/market fit, and tied that more closely to the concept of *designing* rather than *finding* a business model. This drew on a lot of existing tools in the startup world, and it was the first time a dedicated toolkit had been published to tackle the problem of *finding product/market fit*, which was the way Marc Andreesen, one of Eric's key influencers, had first defined the challenge that new tech companies face.  
 
 <h2>Lean Startup and User Experience</h2>
+
 The User Experience (UX) Design community had also been growing in it's own right, independently of startups in general. UX is a natural evolution of product management, ethnography, industrial design and software usability, and has a massive arsenal of tools and techniques for understanding customer needs and designing solutions for them.
 
 There were two catalysts of this connection - Leancamp in London, and LUXr in San Francisco.  Leancamp was actively connecting the UX scene to the Lean Startup world, and was steamrolling onto a colossal community mashup. Leancamp co-founder <a href="http://twitter.com/nickycast">Nicky Smyth</a> from BBC R&amp;D, was inviting many people from the London's design community, then and now the largest design industry in the world, to join the Lean Startup conversation.
 
-This was no easy feat, as the feeling at the time was that Customer Development and UX were competitive. UXDs would claim that they were already doing Customer Developent, and startup founders were still skeptical that anyone who called themselves a designer could be of strategic value. (And nobody had heard of Lean Startup.) The inclusive attitude of Leancamp prevailed! This lead to our invitation to share with the first European Agile UX retreat by <a href="http://twitter.com/johannakoll">Johanna Kollmann</a> and <a href="http://twitter.com/andersramsay">Anders Ramsay</a>. (I've personally found Johanna's work has since proved to be <a href="http://leanca.mp/2012/09/how-to-plan-and-make-sense-of-customer-development-using-ux-techniques-by-johannakoll/">one of the most practical bridges between UX and Customer Development.</a>)
+This was no easy feat, as the feeling at the time was that Customer Development and UX were competitive. UXDs would claim that they were already doing Customer Development, and startup founders were still skeptical that anyone who called themselves a designer could be of strategic value. (And nobody had heard of Lean Startup.) The inclusive attitude of Leancamp prevailed! This lead to our invitation to share with the first European Agile UX retreat by <a href="http://twitter.com/johannakoll">Johanna Kollmann</a> and <a href="http://twitter.com/andersramsay">Anders Ramsay</a>. (I've personally found Johanna's work has since proved to be <a href="http://leanca.mp/2012/09/how-to-plan-and-make-sense-of-customer-development-using-ux-techniques-by-johannakoll/">one of the most practical bridges between UX and Customer Development.</a>)
 
 Meanwhile in San Francisco, <a href="http://twitter.com/clevergirl">Janice Fraser</a>, an Adaptive Path founder, got a call from an investor friend - Mitch Kapor, of Lotus 123 fame - who had a few startups that "need UX help and love this Lean Startup thing."  Janice designed a short program for those few founders, which was the precursor to <a href="http://luxr.co">LUXr</a>, which continally produced a lot of core techniques for Lean Startup teams that are often copied.  Whenever I find a new startupy product design consultancy, I usually find a technique they use that initially came from LUXr. (Sometimes they don't even realise this.)
 
@@ -103,55 +105,63 @@ There are also different versions of Lean UX, some which have very little to do 
 
 Meanwhile, Rob Fitzpatrick and I had [teamed up](http://foundercentric.com) to teach the practicalities of in startups to accelerators, borrowing heavily from what we'd learned from the UX community, but focusing on the more immediate wins needed for a startup to make the most of an accelerator.  We stayed focused on the practical skills rather than methodologies. Rob wrote up our Customer Development approach in [The Mom Test](http://momtestbook.com).
 
-This is a big space - there's more to come.
-
 <h2>Lean Startup and Innovation Accounting</h2>
+
 In the early days of Lean Startup, Eric and <a href="https://twitter.com/davemcclure">Dave McClure</a> were a hilarious duo.  I met Dave McClure at the first Lean Startup Smackdown in a basement bar at SXSW, where a foul-mouthed Dave would play bad cop to Eric's good cop – dishing out rapid-fire abuse at startup founders who were wasting their time by building stuff without input from their customers. (Dave picked on me first, dragging me on stage and asking me the definition of Lean Startup, but not realising I was the guy who had written the wikipedia page on it. When he couldn't fault my answer, he promptly and affectionately told me to fuck off! Lean Startup was a fun little community back then!)
 
-At the time, Dave was fast-becoming the most prolific angel investor out of the Paypal Mafia, largely because he had identified 5 simple, big picture measurements that startups could use know if they were on the right track, which he called <a href="http://market-by-numbers.com/tag/pirate-metrics/">Pirate Metrics</a>. Like many of us, he discovered Eric's Lean Startup view and saw that it put Pirate Metrics in a robust and easily understood framing.  Pirate Metrics was a natural fit with the Lean Startup ideals of measured improvement, and big picture understanding.
+At the time, Dave was fast-becoming one of the most prolific angel investors out of the Paypal Mafia, largely because he had identified 5 simple, big picture measurements that startups could use know if they were on the right track, which he called <a href="http://market-by-numbers.com/tag/pirate-metrics/">Pirate Metrics</a>. 
+
+I remember he was telling everyone to watch the film Moneyball.  It had the same message that he was trying to bring to early-stage investors, that you can use the numbers to make better decisions.  Very Lean.
+
+Like many of us, he discovered Eric's Lean Startup view and saw that it put Pirate Metrics in a robust and easily understood framing.  Pirate Metrics was a natural fit with the Lean Startup ideals of measured improvement, and big picture understanding.
 
 But Eric realised we were scratching at the surface of something far broader, a more practical way to look at startup numbers in general. He expanded the scope, defining Growth Engines and Innovation Accounting.
 
 Two core Lean Principles were again at work here: have a big picture perspective, and measure what matters.   Growth Engines and Innovation Accounting were a way to measure growth and innovation systematically, assuming those are big important things to measure across your whole organisation.
 
-Dave went on to create the <a href="http://500.co">500 Startups</a> accelerator.
+Dave went on to create the <a href="http://500.co">500 Startups</a> accelerator, taking this approach to the next level and proving it by rising to the top of what became a busy and competitive industry.
 
 <h2>Making the pieces work for you</h2>
-Eric has been a great convenor of the Lean Startup movement, building bridges and being very inclusive, even in circumstances where he was challenged. (You'll notice, for example, that his book The Lean Startup is very high-level and communicates concepts and principles over process, while Ash Maurya's Running Lean is criticised for being dangerously prescriptive. Also, Steve often calls himself the *Godfather of Lean Startup* but while one of the key figures in the story, wasn't the originator. Yet, Eric still endorses Ash and Steve.
+
+Eric has been a great convenor of the Lean Startup movement, building bridges and being very inclusive, even in circumstances where he was challenged. 
+
+You'll notice, for example, that his book The Lean Startup is very high-level and communicates concepts and principles over process, while Ash Maurya's Running Lean is criticised for being dangerously prescriptive. Also, Steve often calls himself the *Godfather of Lean Startup* but while one of the key figures in the story, wasn't the originator. Yet, Eric still endorses Ash and Steve.
 
 Eric's rule has been simple: if you know what Lean Startup is, you're in. 
 
 There's a strong value on intellectual honesty in that, but also an onus on us to learn.  
 
-When I challenged Eric on how that let's a lot of bad advice creep in, particularly people losing their family's money by following the more presriptive step-by-step versions of Lean Startup that are out there, his answer was, "I've written a lot about this, free on my blog, and if they choose not to read that, there's very little I can do."
+When I challenged Eric on how that let's a lot of bad advice creep in, particularly people losing their family's money by following the more prescriptive step-by-step versions of Lean Startup that are out there, his answer was, "I've written a lot about this, free on my blog, and if they choose not to read that, there's very little I can do."
 
 The reason I decided to roll up my sleeves and lay the groundwork for the Lean Startup movement, was something Eric told me back in 2011. "The biggest waste of human effort is in the mismanagement of large organisations. Someone can work on a great project for 5 years, and have it cancelled by a bad decision by a committee they never met.  Startups can show them a better way."
 
 I think this inclusive attitude has largely allowed us to draw from the best of many worlds, and I hope the future of Lean Startup will continue with connections into many other spaces.
 
-I have had the luxury of working with many of these leaders through Leancamp. Everyone who's contributed their time to Leancamp is someone who is actively trying to improve entrepreneurship for everyone and they've made huge personal contributions.
+It's been a luxury to work with many of these leaders through Leancamp. Everyone who's contributed their time to Leancamp is someone who is actively trying to improve entrepreneurship for everyone and they've made huge personal contributions.
 
 They don't all agree with each other. At first, when I was introducing Eric Ries to David Heinemier Hansson to Alex Osterwalder to Janice Fraser, I wondered why they seemed to repel each other given they had so much in common.
 
-The answer, in retrospect, is that the business of being a thought-leader makes you fight over who gets to define the central process and definitions.  You can spot intellectually honest thought leaders because they change their message and they open new spaces rather than try to redefine others' work. The dishonest ones make a mess of definitions to establish their own authority, and defend their past thinking because they feel their credibility threatened.
+The answer, in retrospect, is that the business of being a thought-leader makes you fight over who gets to define the central methodology and the definitions.  You can spot intellectually honest thought-leaders because they change their message and they open new spaces rather than try to redefine others' work. The dishonest ones make a mess of definitions to establish their own authority, and defend past (incorrect) thinking because they feel their credibility threatened.
 
-It's also worth noting which startup thought leaders live by their own methodologies and which don't.  A clue to this is in the number of startups they back that fail because of a lack of product/market fit or remain in a zombie state.
+It's also worth noting which startup thought leaders live by their own methodologies and which don't.  A clue to this is in the number of startups they're behind that fail because of a lack of product/market fit or remain in a zombie state.
 
-That leaves us with the responsibility of understanding their priorities and the weight they place on various concepts. Otherwise, we run the risk of misunderstanding and misusing their approaches, or <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">using the wrong tool for the job</a>.
+This all leaves only us with the responsibility of understanding the methodologies they sell.  Context is important here - thought-leaders all tend to overstate the relevance of their methodologies, and make assumptions about your environment and your goals.  Their priorities and the weight they place on various concepts tends to morph around those assumptions.  We have to do the unassuming for them. Otherwise, we run the risk of misunderstanding and misusing their approaches, or <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">using the wrong tool for the job</a>.
 
 <h2>I'll leave you with 3 thoughts:</h2>
 1) As you pick up tools to get your startup to traction and beyond, it's worth taking a little extra time to understand your options, when they're best used, and the trade-offs between them.  <a href="http://www.saintsal.com/2012/11/first-seek-to-understand/">First, seek to understand.</a>
 
 2) This stuff has been super-useful for many founders but the most useful way I've seen to take it onboard has been to understand the big principles, and <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">make it your own</a> in a realistic way. (I think <a href="http://giffconstable.com">Giff Constable</a> and <a href="http://blog.thestartuptoolkit.com">Rob Fitzpatrick</a> are the best exemplars for not over-engineering things, keeping it simple and actionable.)
 
-3) The Lean Startup journey doesn't stop here! With Leancamp we're reaching out to new communities so we can learn more from each other. I'm looking at these 9 areas for <a href="http://www.saintsal.com/2012/05/future-of-lean-startup-areas-im-watching-for-faster-market-traction/">the future  of Lean Startup</a> - ranging from Disruptive Innovation to psychology - to bring us the next evolution of entrepreneurship.
+3) The Lean Startup journey doesn't stop here! With Leancamp we're reaching out to new communities so we can learn more from each other. I'm looking at these 9 areas for <a href="http://www.saintsal.com/2012/05/future-of-lean-startup-areas-im-watching-for-faster-market-traction/">the future  of Lean Startup</a> - ranging from Disruptive Innovation to psychology - to bring us the next evolution of entrepreneurship. If you'd like to be part of the next evolution of Lean Startup, step up to run [Leancamp](http://leancamp.net) in your community.
 
 # Want to go back to First Principles?
 
 It's easy to get lost in the mess. If you want to start with the core principles and expand from there, I recommend 3 sources, which unfortunately aren't actively promoted:
 
-[The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book is hands-down the best and clearest description of Lean Startup.  It was only shared with Kickstarter supporters, but as a support, I can share with friends. (So if you'd like to read it, email me and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book) book.
+[The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book is hands-down the best and clearest description of Lean Startup.  It was only shared with Kickstarter supporters, but as a supporter, I can share with my friends. So if you'd like to read it, [email me](mailto:smile@saintsal.com) and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book) book.
 
 [The Cathedral And The Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric S Raymond's book on open-source software culture, which to this day describes a way of making things people want that drive to the heart of Lean Startup principles.
 
 [Marc Andreesen's original essay on product/market fit.]( http://pmarchive.com/guide_to_startups_part4.html)
+
+
