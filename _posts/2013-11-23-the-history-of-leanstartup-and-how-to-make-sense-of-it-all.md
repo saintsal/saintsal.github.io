@@ -45,15 +45,15 @@ When Eric was CTO of IMVU, he audited a Steve Blank course at Stanford.  It was 
 Steve himself was also a startup iconoclast. As Steve was hustling for e.piphany in the 90s, he had noted that the conventional startup thinking at the time was basically, <em>raise a ton of money, then close your eyes and put the pedal to the metal</em>. He moved towards a more customer-savvy approach, to tackle the risks inherent with the long cycles of enterprise sales. <a href="http://steveblank.com">Customer Development</a> was born as a methodology for building tech companies focused on selling to big companies.
 Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed its very prescriptive flowcharts. (There are way more than four steps!)
 
-This is where concepts start to overlap. Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers.
+This is where concepts start to overlap. Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers. Both had roughly recognised the same problems with the status quo, but Eric characterised this as waste and applied the continuous improvement thinking from Lean. Steve recognised the problem, but didn't yet characterise this as a "waste problem" and had emphasised a multi-step methodology as a solution rather than Lean principles.
 
-In the early days, the exact definition of Lean Startup was constantly being adapted. 
+Back in these early days, the exact definition of Lean Startup was constantly being adapted. 
 
 At one point in 2009, Eric had tried defining Lean Startup as a combination of Agile, Customer Development, and building on pre-existing systems to eliminate redundant effort (open source.) This definition proved to be too complicated, and Eric being open to wider influences and innovative thinkers, was quick to iterate.
 
 Eric had his eye on applying Lean thinking in other areas, like design and large corporates too.He kept going.
 
-Customer Development itself started to become more iterative based on its contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  This influence made Customer Development more iterative and continuous, leaving its flowcharts and stage gates behind.
+Customer Development itself started to become more iterative based on its contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  It was a huge step when Brant Cooper, in [a short ebook to simplify Steve's work](http://custdev.com) and combine it with Lean Startup, added a *backwards arrow* from Customer Validation to Customer Discovery, and called that a pivot. Even though this wasn't Eric's definition of pivot, it was adopted by Steve.  This influence made Customer Development more iterative and continuous, leaving its flowcharts and stage gates behind.
 
 <h2>Lean Startup and Agile</h2>
 Agile was a pre-existing movement, going strong in the software world. It focused on <a href="http://agilemanifesto.org/principles.html">continuous or fast-cycle releases of code to users, working together face-to-face and other principles</a>. Agile is where the idea of iterative development comes from. It's that community that taught us that actual user usage and the resulting feedback is more valuable that most other forms of market or business insight.
@@ -117,11 +117,15 @@ Two core Lean Principles were again at work here: have a big picture perspective
 Dave went on to create the <a href="http://500.co">500 Startups</a> accelerator.
 
 <h2>Making the pieces work for you</h2>
-Eric has been a great convenor of the Lean Startup movement, building bridges and being very inclusive, even in circumstances where he was challenged. (You'll notice, for example, that his book The Lean Startup is very high-level and communicates concepts and principles over process, while Ash Maurya's Running Lean is criticised for being dangerously prescriptive. Yet, they still collaborate.) 
+Eric has been a great convenor of the Lean Startup movement, building bridges and being very inclusive, even in circumstances where he was challenged. (You'll notice, for example, that his book The Lean Startup is very high-level and communicates concepts and principles over process, while Ash Maurya's Running Lean is criticised for being dangerously prescriptive. Also, Steve often calls himself the *Godfather of Lean Startup* but while one of the key figures in the story, wasn't the originator. Yet, Eric still endorses Ash and Steve.
 
 Eric's rule has been simple: if you know what Lean Startup is, you're in. 
 
-The reason I decided to roll up my sleeves and lay the groundwork for the Lean Startup movement, was something Eric told me back in 2010. "The biggest waste of human effort is in the mismanagement of large organisations. Someone can work on a great project for 5 years, and have it cancelled in error by a committee they never met.  Startups can show them a better way."
+There's a strong value on intellectual honesty in that, but also an onus on us to learn.  
+
+When I challenged Eric on how that let's a lot of bad advice creep in, particularly people losing their family's money by following the more presriptive step-by-step versions of Lean Startup that are out there, his answer was, "I've written a lot about this, free on my blog, and if they choose not to read that, there's very little I can do."
+
+The reason I decided to roll up my sleeves and lay the groundwork for the Lean Startup movement, was something Eric told me back in 2011. "The biggest waste of human effort is in the mismanagement of large organisations. Someone can work on a great project for 5 years, and have it cancelled by a bad decision by a committee they never met.  Startups can show them a better way."
 
 I think this inclusive attitude has largely allowed us to draw from the best of many worlds, and I hope the future of Lean Startup will continue with connections into many other spaces.
 
@@ -130,6 +134,8 @@ I have had the luxury of working with many of these leaders through Leancamp. Ev
 They don't all agree with each other. At first, when I was introducing Eric Ries to David Heinemier Hansson to Alex Osterwalder to Janice Fraser, I wondered why they seemed to repel each other given they had so much in common.
 
 The answer, in retrospect, is that the business of being a thought-leader makes you fight over who gets to define the central process and definitions.  You can spot intellectually honest thought leaders because they change their message and they open new spaces rather than try to redefine others' work. The dishonest ones make a mess of definitions to establish their own authority, and defend their past thinking because they feel their credibility threatened.
+
+It's also worth noting which startup thought leaders live by their own methodologies and which don't.  A clue to this is in the number of startups they back that fail because of a lack of product/market fit or remain in a zombie state.
 
 That leaves us with the responsibility of understanding their priorities and the weight they place on various concepts. Otherwise, we run the risk of misunderstanding and misusing their approaches, or <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">using the wrong tool for the job</a>.
 
@@ -140,7 +146,9 @@ That leaves us with the responsibility of understanding their priorities and the
 
 3) The Lean Startup journey doesn't stop here! With Leancamp we're reaching out to new communities so we can learn more from each other. I'm looking at these 9 areas for <a href="http://www.saintsal.com/2012/05/future-of-lean-startup-areas-im-watching-for-faster-market-traction/">the future  of Lean Startup</a> - ranging from Disruptive Innovation to psychology - to bring us the next evolution of entrepreneurship.
 
-It's easy to get lost in the mess. If you want to start with the core principles and expand from there, I recommend 3 sources:
+# Want to go back to First Principles?
+
+It's easy to get lost in the mess. If you want to start with the core principles and expand from there, I recommend 3 sources, which unfortunately aren't actively promoted:
 
 [The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book is hands-down the best and clearest description of Lean Startup.  It was only shared with Kickstarter supporters, but as a support, I can share with friends. (So if you'd like to read it, email me and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book) book.
 
