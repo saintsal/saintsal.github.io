@@ -9,7 +9,7 @@ Lean Startup is full of competing thought-leaders and consultants, so I wrote th
  
 It's important for founders to understand the background of Lean Startup, since it helps evaluate the strengths and weaknesses of the various approaches around it. They often seem incompatible or counter-intuitive, so this history will help you make sense of it and hopefully make more informed decisions.
 
-As the founder of <a href="http://leanca.mp">Leancamp</a>, I've been a proponent of Lean Startup and it's related approaches since 2009. I've been lucky enough to spend time and work with some of the different leaders in the Lean Startup world. Here's how I've seen things go down.
+As the founder of <a href="http://leanca.mp">Leancamp</a>, I've been a proponent of Lean Startup and its related approaches since 2009. I've been lucky enough to spend time and work with some of the different leaders in the Lean Startup world. Here's how I've seen things go down.
 
 
 *(I originally wrote this in 2012, but updated it slightly in 2016.)*
@@ -43,7 +43,7 @@ But before we get to the book, let's go back and look at some of these influence
 When Eric was CTO of IMVU, he audited a Steve Blank course at Stanford.  It was a condition of Steve's investment, and Eric thought it was worth checking out; Steve had risen to fame by joining e.piphany and seeing it to an IPO. He was now an investor and teacher.
 
 Steve himself was also a startup iconoclast. As Steve was hustling for e.piphany in the 90s, he had noted that the conventional startup thinking at the time was basically, <em>raise a ton of money, then close your eyes and put the pedal to the metal</em>. He moved towards a more customer-savvy approach, to tackle the risks inherent with the long cycles of enterprise sales. <a href="http://steveblank.com">Customer Development</a> was born as a methodology for building tech companies focused on selling to big companies.
-Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed it's very prescriptive flowcharts. (There are way more than four steps!)
+Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed its very prescriptive flowcharts. (There are way more than four steps!)
 
 This is where concepts start to overlap. Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers.
 
@@ -53,7 +53,7 @@ At one point in 2009, Eric had tried defining Lean Startup as a combination of A
 
 Eric had his eye on applying Lean thinking in other areas, like design and large corporates too.He kept going.
 
-Customer Development itself started to become more iterative based on it's contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  This influence made Customer Development more iterative and continuous, leaving it's flowcharts and stage gates behind.
+Customer Development itself started to become more iterative based on its contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  This influence made Customer Development more iterative and continuous, leaving its flowcharts and stage gates behind.
 
 <h2>Lean Startup and Agile</h2>
 Agile was a pre-existing movement, going strong in the software world. It focused on <a href="http://agilemanifesto.org/principles.html">continuous or fast-cycle releases of code to users, working together face-to-face and other principles</a>. Agile is where the idea of iterative development comes from. It's that community that taught us that actual user usage and the resulting feedback is more valuable that most other forms of market or business insight.
@@ -142,8 +142,8 @@ That leaves us with the responsibility of understanding their priorities and the
 
 It's easy to get lost in the mess. If you want to start with the core principles and expand from there, I recommend 3 sources:
 
-[The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book which was only shared with Kickstarter supporters, but with I can share with friends. (So email me and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book).
+[The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book is hands-down the best and clearest description of Lean Startup.  It was only shared with Kickstarter supporters, but as a support, I can share with friends. (So if you'd like to read it, email me and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book) book.
 
-[The Cathedral And The Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric S Raymond's book on open-source software culture, which to this day underpins the core Lean Startup principles.
+[The Cathedral And The Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric S Raymond's book on open-source software culture, which to this day describes a way of making things people want that drive to the heart of Lean Startup principles.
 
 [Marc Andreesen's original essay on product/market fit.]( http://pmarchive.com/guide_to_startups_part4.html)
