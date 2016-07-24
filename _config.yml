@@ -16,7 +16,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 250
+words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
@@ -46,7 +46,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : Source # If the user or organization name differs from the site's name
-  links: http://src.st/ # An array of links to social media profiles
+  links: http://source.institute/ # An array of links to social media profiles
 
 # Analytics
 analytics:
