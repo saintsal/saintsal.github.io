@@ -121,7 +121,8 @@ Two core Lean Principles were again at work here: have a big picture perspective
 
 Dave went on to create the <a href="http://500.co">500 Startups</a> accelerator, taking this approach to the next level and proving it by rising to the top of what became a busy and competitive industry.
 
-<h2>Making the pieces work for you</h2>
+## Behind the scenes: why these ideas similar ideas don't click
+
 
 Eric has been a great convenor of the Lean Startup movement, building bridges and being very inclusive, even in circumstances where he was challenged. 
 
@@ -133,7 +134,7 @@ There's a strong value on intellectual honesty in that, but also an onus on us t
 
 When I challenged Eric on how that let's a lot of bad advice creep in, particularly people losing their family's money by following the more prescriptive step-by-step versions of Lean Startup that are out there, his answer was, "I've written a lot about this, free on my blog, and if they choose not to read that, there's very little I can do."
 
-The reason I decided to roll up my sleeves and lay the groundwork for the Lean Startup movement, was something Eric told me back in 2011. "The biggest waste of human effort is in the mismanagement of large organisations. Someone can work on a great project for 5 years, and have it cancelled by a bad decision by a committee they never met.  Startups can show them a better way."
+The reason I decided to roll up my sleeves and lay the groundwork for the Lean Startup movement, was a conversation I had with Eric back in 2011. He pointed out that the biggest waste of human effort is in the mismanagement of large organisations. I'd seen this too. Someone can work on a great project for 5 years, and have it cancelled by a bad decision by a committee they never met.  Startups can show them a better way, and Lean Startup could create that vector. 
 
 I think this inclusive attitude has largely allowed us to draw from the best of many worlds, and I hope the future of Lean Startup will continue with connections into many other spaces.
 
@@ -141,11 +142,19 @@ It's been a luxury to work with many of these leaders through Leancamp. Everyone
 
 They don't all agree with each other. At first, when I was introducing Eric Ries to David Heinemier Hansson to Alex Osterwalder to Janice Fraser, I wondered why they seemed to repel each other given they had so much in common.
 
-The answer, in retrospect, is that the business of being a thought-leader makes you fight over who gets to define the central methodology and the definitions.  You can spot intellectually honest thought-leaders because they change their message and they open new spaces rather than try to redefine others' work. The dishonest ones make a mess of definitions to establish their own authority, and defend past (incorrect) thinking because they feel their credibility threatened.
+The answer, in retrospect, is that the business of being a thought-leader makes you fight over who gets to define the central methodology and the definitions.  The benefits accrue to the thought-leader who is the first point of contact for an idea, and who defines the broader framework.  Bigger audiences attracted mean bigger speaking fees.  Broader concepts allow you to pick your consulting clients first. Being known as *the* originator makes it easier for the most influential organisations to adopt *your* way.
 
-It's also worth noting which startup thought leaders live by their own methodologies and which don't.  A clue to this is in the number of startups they're behind that fail because of a lack of product/market fit or remain in a zombie state.
+There's a tension between intellectual honesty and building this type of credibility for your business.
 
-This all leaves only us with the responsibility of understanding the methodologies they sell.  Context is important here - thought-leaders all tend to overstate the relevance of their methodologies, and make assumptions about your environment and your goals.  Their priorities and the weight they place on various concepts tends to morph around those assumptions.  We have to do the unassuming for them. Otherwise, we run the risk of misunderstanding and misusing their approaches, or <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">using the wrong tool for the job</a>.
+The intellectually dishonest ones make a mess of existing definitions to establish their own authority, and defend their own past (incorrect) thinking because they feel their credibility threatened. 
+
+You can spot intellectually honest thought-leaders because they change their message and they open new spaces rather than try to redefine others' work. They'll say when they learned they were wrong. They prioritise intellectual leadership over their own business.
+
+It's also worth noting which startup thought leaders live by their own methodologies and which don't.  Before you jump in because of their well-rehearsed and seemingly-rational argumentation, look at if they eat their own dogfood. A clue to this is in the number of startups they back that fail because of a lack of product/market fit or remain in a zombie state.
+
+<h2>Making the pieces work for you</h2>
+
+This all leaves us, and only us, with the responsibility of understanding the methodologies they sell.  Context is important here - thought-leaders all tend to overstate the relevance of their methodologies, and make assumptions about your environment and your goals.  Their priorities and the weight they place on various concepts tends to morph around those assumptions.  We have to do the unassuming for them. Otherwise, we run the risk of misunderstanding and misusing their approaches, or <a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/">using the wrong tool for the job</a>.
 
 <h2>I'll leave you with 3 thoughts:</h2>
 1) As you pick up tools to get your startup to traction and beyond, it's worth taking a little extra time to understand your options, when they're best used, and the trade-offs between them.  <a href="http://www.saintsal.com/2012/11/first-seek-to-understand/">First, seek to understand.</a>
