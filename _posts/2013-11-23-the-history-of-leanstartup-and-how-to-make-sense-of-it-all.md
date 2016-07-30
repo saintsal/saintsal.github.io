@@ -21,7 +21,12 @@ If that name doesn't sound familiar, maybe you've heard some startup experts tal
 <h2>Lean Startup, Toyota and Lean Thinking</h2>
 Lean Startup comes from Lean Thinking, which was a management approach famously applied in Toyota's factory production system, as they rose to prominence. The term Lean itself was coined by American management academics, themselves great thinkers, as they studied Toyota.
 
-Since then, Lean Thinking has proven useful in a lot of different areas. The Healthcare and Construction industries have had their own Lean movements.  In the 80s and 90s, you might have heard about Supply-Chain Integration or Total Quality Management. These were corporate movements also based on Lean.  A version of Toyota's approaches  have been central to GE.  (If you remember the Six Sigma jokes on 30 Rock, you know that Jack Donoughy is Lean!) Lean has even been employed in software - for over a decade! Lean Startup is the latest addition to the family.
+
+Since then, Lean Thinking has proven useful in a lot of different areas. The Healthcare and Construction industries have had their own Lean movements.  In the 80s and 90s, you might have heard about Supply-Chain Integration or Total Quality Management. These were corporate movements also based on Lean.  A version of Toyota's approaches  have been central to GE. 
+
+![](https://thechive.files.wordpress.com/2015/05/jack-donaghy-wisdom-is-like-a-straight-shot-of-whiskey-34-photos-18.jpg?quality=90&strip=info&w=600)
+
+If you remember the Six Sigma jokes on 30 Rock, you know that Jack Donoughy is Lean!) Lean has even been employed in software - for over a decade! Lean Startup is the latest addition to the family.
 
 There are a few key principles at the core of Lean Thinking, and they manifest differently in these different contexts.<strong> Three central principles to Lean Startup are the goal of minimising waste, the culture of continuous improvement and the importance of measuring the big picture.</strong> These underpinned Toyota's innovations and echo all over the Lean Startup world in different ways.
 
