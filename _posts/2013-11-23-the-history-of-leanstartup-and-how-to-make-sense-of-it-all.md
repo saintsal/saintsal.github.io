@@ -187,7 +187,7 @@ It's easy to get lost in the mess. If you want to start with the core principles
 
 [The Leaders' Guide](http://www.startuplessonslearned.com/2015/04/last-week-to-get-leaders-guide.html), Eric Ries' latest book is hands-down the best and clearest description of Lean Startup.  It was only shared with Kickstarter supporters, but as a supporter, I can share with my friends. So if you'd like to read it, [email me](mailto:smile@saintsal.com) and let's be friends :) And of course, the original [Lean Startup](http://theleanstartup.com/book) book.
 
-[The Cathedral And The Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric S Raymond's book on open-source software culture, which to this day describes a way of making things people want that drive to the heart of Lean Startup principles.
+[The Cathedral And The Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/), Eric S Raymond's book on open-source software development. To this day it describes a way of making things people want, and drives to the heart of Lean Startup principles.
 
 [Marc Andreesen's original essay on product/market fit.]( http://pmarchive.com/guide_to_startups_part4.html)
 
