@@ -191,4 +191,4 @@ It's easy to get lost in the mess. If you want to start with the core principles
 
 [Marc Andreesen's original essay on product/market fit.]( http://pmarchive.com/guide_to_startups_part4.html)
 
-
+And to the heart of Lean Thinking, Taichi Ohno's book [Toyota Production System](https://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143?ie=UTF8&qid=1224646274&ref_=sr_1_1&s=books&sr=8-1).
