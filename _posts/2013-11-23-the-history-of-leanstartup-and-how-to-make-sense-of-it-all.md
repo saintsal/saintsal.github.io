@@ -45,18 +45,35 @@ When Eric was CTO of IMVU, he audited a Steve Blank course at Stanford.  It was 
 Steve himself was also a startup iconoclast. As Steve was hustling for e.piphany in the 90s, he had noted that the conventional startup thinking at the time was basically, <em>raise a ton of money, then close your eyes and put the pedal to the metal</em>. He moved towards a more customer-savvy approach, to tackle the risks inherent with the long cycles of enterprise sales. <a href="http://steveblank.com">Customer Development</a> was born as a methodology for building tech companies focused on selling to big companies.
 Steve became well-known among the Stanford-investor set, and in-the-know people liked to refer to his book *4 Step To The Epiphany* though very few actually read it or followed its very prescriptive flowcharts. (There are way more than four steps!)
 
-This is where concepts start to overlap. Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers. Both had roughly recognised the same problems with the status quo, but Eric characterised this as waste and applied the continuous improvement thinking from Lean. Steve recognised the problem, but didn't yet characterise this as a "waste problem" and had emphasised a multi-step methodology as a solution rather than Lean principles.
+This is where concepts start to overlap. 
 
-Back in these early days, the exact definition of Lean Startup was constantly being adapted. 
+Both had roughly recognised the same problems with the status quo, but while Eric characterised this as a waste problem, applying ideas like continuous improvement from Lean, Steve focused on relative maturity of a startup, emphasises a distinction between *search* and *execute* phases. 
+
+
+Eliminating waste sounds great in principle, but the devil is in the definition. How you define waste matters. 
+
+> By the standard of "customer value," most innovation-seeking experiments are waste. Lean startups operate by a different standard. I suggest they define waste as "every activity that does not contribute to learning about customers." (aka "how you get to product/market fit.") 
+
+> - [Eric Ries](http://www.startuplessonslearned.com/2008/10/lean-startups-vs-lean-companies.html) 2008
+
+Both Eric and Steve had noticed there was a lot of waste, both in product development (building stuff customers won't use/buy) and in marketing it to those customers. Steve recognised the problem, but didn't yet characterise this as a "waste problem" and had emphasised a multi-step methodology as a solution rather than Lean principles.
+
+These were sharp differences that exist to this day, but have mostly gone unnoticed. 
+
+It's important to know that back in these early days, the exact definition of Lean Startup itself was constantly being adapted. 
 
 At one point in 2009, Eric had tried defining Lean Startup as a combination of Agile, Customer Development, and building on pre-existing systems to eliminate redundant effort (open source.) This definition proved to be too complicated, and Eric being open to wider influences and innovative thinkers, was quick to iterate.
 
 Eric had his eye on applying Lean thinking in other areas, like design and large corporates too.He kept going.
 
-Customer Development itself started to become more iterative based on its contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  It was a huge step when Brant Cooper, in [a short ebook to simplify Steve's work](http://custdev.com) and combine it with Lean Startup, added a *backwards arrow* from Customer Validation to Customer Discovery, and called that a pivot. Even though this wasn't Eric's definition of pivot, it was adopted by Steve.  This influence made Customer Development more iterative and continuous, leaving its flowcharts and stage gates behind.
+Customer Development itself started to become more iterative based on its contact with Lean Startup. Steve Blank started to describe Customer Development as a parallel process to Agile, and also inherited to the concept of the pivot from Lean Startup.  It was a huge step when Brant Cooper, in [a short ebook to simplify Steve's work](http://custdev.com) and combine it with Lean Startup, added a *backwards arrow* from Customer Validation to Customer Discovery, and called that a pivot. 
+
+[Eric had coined the term of pivot](http://www.startuplessonslearned.com/2009/06/pivot-dont-jump-to-new-vision.html), and Brant had created a simplifcation, then Steve had adopted it.  This influence made Customer Development more iterative and continuous, leaving its flowcharts and stage gates behind.
 
 <h2>Lean Startup and Agile</h2>
 Agile was a pre-existing movement, going strong in the software world. It focused on <a href="http://agilemanifesto.org/principles.html">continuous or fast-cycle releases of code to users, working together face-to-face and other principles</a>. Agile is where the idea of iterative development comes from. It's that community that taught us that actual user usage and the resulting feedback is more valuable that most other forms of market or business insight.
+
+Eric attributes Kent Beck's work as one of his main infuences. Kent created an Agile methodology called [Extreme Programming](http://www.ootips.org/xp.html), which brought interesting practices to the table, like pair programming and developing with a customer on-site.
 
 On the flipside, Agile was deeply user-focused, and what we saw emerging from some Agile leaders was similar to what what coming from the Lean Startup movement, that we needed to consider when to be user-focused, and when to be customer-focused.  Not always the same thing.
 
@@ -103,7 +120,8 @@ The Leancamp and LUXr crowds were quickly connected through Agile UX community, 
 
 There are also different versions of Lean UX, some which have very little to do with Agile. <a href="http://www.uxdna.co.uk/">Ian Collingwood</a> in Barcelona has a Lean Usability method, for example, that always keeps the team on the biggest problem.
 
-Meanwhile, Rob Fitzpatrick and I had [teamed up](http://foundercentric.com) to teach the practicalities of in startups to accelerators, borrowing heavily from what we'd learned from the UX community, but focusing on the more immediate wins needed for a startup to make the most of an accelerator.  We stayed focused on the practical skills rather than methodologies. Rob wrote up our Customer Development approach in [The Mom Test](http://momtestbook.com).
+Meanwhile, Rob Fitzpatrick and I had [teamed up](http://foundercentric.com) to teach the practicalities of in startups to accelerators, borrowing heavily from what we'd learned from the UX community, but focusing on the more immediate wins needed for a startup to make the most of an accelerator.  We stayed focused on the practical skills rather than [methodologies, which heavy influence from [Cindy Alvarez](http://www.cindyalvarez.com/full-archive.html), Janice Fraser, [Johanna Kollmann](http://www.slideshare.net/johannakollmann/how-to-get-more-than-opinions-interview-techniques-and-advice), [Ian Collingwood](http://www.slideshare.net/JohnnyForeigner/customer-development-interviewing-tips) (the [note-taking method](http://www.slideshare.net/JohnnyForeigner/lean-usability-testing-dont-forget-the-humans)) and [Dave Gray](http://communicationnation.blogspot.com/2009/09/designing-narrative-with-index-cards.html). After a few years of teaching this with me, Rob wrote up our Customer Development approach in [The Mom Test](http://momtestbook.com).
+
 
 <h2>Lean Startup and Innovation Accounting</h2>
 
