@@ -26,7 +26,9 @@ Since then, Lean Thinking has proven useful in a lot of different areas. The Hea
 
 ![](https://thechive.files.wordpress.com/2015/05/jack-donaghy-wisdom-is-like-a-straight-shot-of-whiskey-34-photos-18.jpg?quality=90&strip=info&w=600)
 
-If you remember the Six Sigma jokes on 30 Rock, you know that Jack Donoughy is Lean!) Lean has even been employed in software - for over a decade! Lean Startup is the latest addition to the family.
+If you remember the Six Sigma jokes on 30 Rock, you know that Jack Donoughy is Lean! 
+
+Lean has even been employed in software - for over a decade! Lean Startup is the latest addition to the family.
 
 There are a few key principles at the core of Lean Thinking, and they manifest differently in these different contexts.<strong> Three central principles to Lean Startup are the goal of minimising waste, the culture of continuous improvement and the importance of measuring the big picture.</strong> These underpinned Toyota's innovations and echo all over the Lean Startup world in different ways.
 
