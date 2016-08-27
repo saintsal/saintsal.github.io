@@ -17,3 +17,10 @@ article.page {
 p, li, dl {
   font-size: 1.2em;
 }
+.expandcontract {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
