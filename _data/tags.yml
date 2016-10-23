@@ -1,6 +1,6 @@
-business-models:
+- slug: business-models
   name: Business Models
-lean-startup:
+- slug: lean-startup
   name: Lean Startup
-leancamp:
+- slug: leancamp
   name: Lean Camp
