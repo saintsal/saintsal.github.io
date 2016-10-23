@@ -64,9 +64,9 @@ author:
   name             : "Salim Virani"
   avatar           : "salim_virani.png"
   bio              : "Helping founders help each other."
-  location         : 
+  location         :
   email            : smile@saintsal.com
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -155,7 +155,6 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-archives
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
