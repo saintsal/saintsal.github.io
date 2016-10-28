@@ -6,7 +6,7 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
-    <h1 class="page__title">Posts about <em>{{ site.data.tags[page.tag].name }}</em></h1>
+    <h1 class="page__title"><em>{{ site.data.tags[page.tag].name }}</em> Posts</h1>
     {% include base_path %}
     {% for post in site.tags[page.tag] %}
       {% include archive-single.html %}
