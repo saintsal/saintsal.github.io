@@ -44,24 +44,16 @@ author_profile: true
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
 
-iTag
 {% assign post = page %}
-Tag2
 {% if post.tags.size > 0 %}
-Tag3
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
-Tag4
     {% for post_tag in post.tags %}
-tag5
         {% for data_tag in site.data.tags %}
-tag6
             {% if data_tag.slug == post_tag %}
-tag7
                 {% assign tag = data_tag %}
             {% endif %}
         {% endfor %}
         {% if tag %}
-tag 8
             {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
             {% assign tags_content = tags_content_temp %}
         {% endif %}
