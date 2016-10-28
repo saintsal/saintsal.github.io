@@ -2,7 +2,7 @@
 layout: post
 title:  "The History Of Lean Startup"
 date:   2016-07-20 15:13:33
-tags:   [business-models, lean-startup, leancamp]
+tags:   business-models lean-startup leancamp community
 ---
 
 Lean Startup is full of competing thought-leaders and consultants, so I wrote this post to help you make sense of it all.

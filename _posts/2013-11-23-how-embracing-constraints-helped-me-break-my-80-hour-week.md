@@ -2,7 +2,7 @@
 layout: post
 title:  "How embracing constraints helped me break my 80 hour week."
 date:   2013-11-23 15:13:33
-tags:   
+tags:   personal
 ---
 
 Now that my business is putting a lot of time pressure on me, it's harder to be dependable to my friends. Reading Rework helped me when I was working 70-80 hour weeks but wanted to support a friend who was diagnosed with Parkinson's.

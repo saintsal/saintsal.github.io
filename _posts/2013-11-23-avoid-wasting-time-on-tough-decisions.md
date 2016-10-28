@@ -2,7 +2,7 @@
 layout: post
 title:  "6 quick checks to avoid wasting time on tough decisions."
 date:   2013-11-23 15:13:33
-tags:   
+tags:   decisions
 ---
 
 Ever caught yourself spinning your wheels on a decision, letting it hold you back from progress?

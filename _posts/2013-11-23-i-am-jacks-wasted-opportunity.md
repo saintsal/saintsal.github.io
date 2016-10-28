@@ -2,7 +2,7 @@
 layout: post
 title:  "I am Jack's wasted opportunity"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development developing-economies
+tags:   growth-economies lean-startup
 ---
 
 South East Asia is going through exciting and tremendous changes at the moment, even in Laos, one of its poorest countries.

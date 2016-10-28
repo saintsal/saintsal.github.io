@@ -2,7 +2,7 @@
 layout: post
 title:  "What spies can teach us about Customer Development"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development learning
+tags:   decisions lean-startup
 ---
 
 <a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/09/waiting-for-the-train-flickr-thomasleuthard-.png"><img class="alignnone size-medium wp-image-1515" title="waiting for the train - flickr - thomasleuthard" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/09/waiting-for-the-train-flickr-thomasleuthard--300x225.png" alt="" width="300" height="225" /></a>

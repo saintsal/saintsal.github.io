@@ -2,7 +2,7 @@
 layout: post
 title:  "Business model trigger questions - a way to spot viable options quickly"
 date:   2013-11-23 15:13:33
-tags:   business-models prototyping
+tags:   business-models decisions
 ---
 
 When it comes to business models, a lot of founders tend to copy blindly. It used to be SaaS and Freemium, now it's marketplace and co-creation. Yet the business model itself is usually a key innovation and unhooks the potential of the product. Look at Hail-O, Votizen, Dropbox, Zynga, AirBnB, Kickstarter...

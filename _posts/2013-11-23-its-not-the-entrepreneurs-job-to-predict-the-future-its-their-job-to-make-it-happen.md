@@ -2,7 +2,7 @@
 layout: post
 title:  "It's not the entrepreneur's job to predict the future, it's their job to make it happen."
 date:   2013-11-23 15:13:33
-tags:   effectuation future jfdi prediction trends
+tags:   startups leadership
 ---
 
 Just as you don’t need to predict the future to put yourself there when it starts, it’s not enough to put yourself in the right place at the right time <em>– you have to make the future happen</em>.

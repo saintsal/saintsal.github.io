@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Traits of Earlyvangelists, aka How to solve problems that pay."
 date:   2013-11-23 15:13:33
-tags:   Customer-Development
+tags:   lean-startup decisions
 ---
 
 While mentoring at Lean Startup Machine London, I covered one of the most fundamental concepts in Customer Development, the 5 characteristics on an Earlyvangelist, which Steve Blank covers in more detail in his book Four Steps To The Epiphany. Trevor grabbed me for a quick interview.

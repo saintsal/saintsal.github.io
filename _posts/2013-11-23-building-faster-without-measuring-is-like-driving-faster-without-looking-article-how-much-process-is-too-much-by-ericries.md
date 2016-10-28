@@ -2,7 +2,7 @@
 layout: post
 title:  "Building faster without measuring is like driving faster without looking."
 date:   2013-11-23 15:13:33
-tags:   leanstartup
+tags:   lean-startup
 ---
 
 <div class="posterous_autopost">

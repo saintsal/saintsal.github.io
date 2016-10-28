@@ -2,7 +2,7 @@
 layout: post
 title:  "Seriously, WTF?"
 date:   2013-11-23 15:13:33
-tags:   role-models
+tags:   leadership lean-startup 
 ---
 
 Since I started <a href="http://foundercentric.com/fday">teaching entrepreneurship</a>, I've been trying to instill an iconoclastic attitude in founders. I really want to push them to<a href="http://www.saintsal.com/2011/02/why-lean-thinking-doesnt-just-hand-you-answers-%E2%80%93-and-how-it-makes-you-smarter/"> think for themselves in their own context</a>. But thinking isn't enough. Looking at my most forward-thinking heroes, they actually <em>changed how things are done</em>.  It seems to me it was their detached observation of how businesses are started that lead to asking,

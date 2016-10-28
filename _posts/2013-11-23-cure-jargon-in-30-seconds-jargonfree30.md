@@ -2,7 +2,7 @@
 layout: post
 title:  "Cure jargon in 30 seconds."
 date:   2013-11-23 15:13:33
-tags:   community experiment-design
+tags:   community education
 ---
 
 Too many great ideas get buried by their own jargon.

@@ -3,8 +3,22 @@ business-models:
 lean-startup:
   name: Lean Startup
 leancamp:
-  name: Lean Camp
-customer-development:
-  name:Customer Development
+  name: Leancamp
 decisions:
   name: Decisions
+community:
+  name: Community
+education:
+  name: Education
+growth-economies:
+  name: Growth Economies
+leadership:
+  name: Leadership
+mentoring:
+  name: Mentoring
+personal:
+  name: Personal
+privacy:
+  name: Privacy
+startups:
+  name: Startups

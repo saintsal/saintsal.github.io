@@ -2,7 +2,7 @@
 layout: post
 title:  "Why startups are so different for The Next Billion"
 date:   2015-01-23 11:15:14
-tags:   
+tags:   community startups
 ---
 
 *Note: I'm heading to Kenya next month to teach  [promising engineers](http://www.raeng.org.uk/grants-and-prizes/prizes-and-medals/other-awards/africa-prize) how to make a startup out of their technology. I need your help to meet local business role models, so I can design workshops that will share the right experience. If you can think of anyone, please get in touch.*

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why my cofounder is my biggest rival"
 date:   2013-11-23 15:13:33
-tags:   cofounder lean-startup team
+tags:   lean-startup startups personal
 ---
 
 

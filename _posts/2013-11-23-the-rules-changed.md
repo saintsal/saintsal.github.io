@@ -2,7 +2,7 @@
 layout: post
 title:  "Why the startup rules have changed, and we're plodding along blindly."
 date:   2013-11-23 15:13:33
-tags:   trends developing-economies village-accelerator
+tags:   startups growth-economies leadership
 ---
 
 Sometimes you <del>see it coming</del> <span style="text-decoration: underline;">totally miss it. </span>

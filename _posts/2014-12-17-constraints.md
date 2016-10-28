@@ -2,7 +2,7 @@
 layout: post
 title:  "When Constraints Embrace You"
 date:   2014-12-17 21:00:32
-tags:   
+tags:   personal
 ---
 
 *April 2015 Update: With persistence, the doctors seemed to have narrowed down on the problem and after 6 months, While still not 100%, I'm well on my way to recovering!*

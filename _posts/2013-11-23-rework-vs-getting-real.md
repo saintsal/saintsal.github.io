@@ -2,7 +2,7 @@
 layout: post
 title:  "Rework vs Getting Real"
 date:   2013-11-23 15:13:33
-tags:   
+tags:   startups leadership
 ---
 
 Rework takes some concepts from Getting Real and explains how they're relevant to business thinking, not just web apps. I explain two of them: Epicenter Design and making decisions here.  

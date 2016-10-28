@@ -2,7 +2,7 @@
 layout: post
 title:  "Paralyzed by options"
 date:   2015-01-16 13:05:04
-tags:   
+tags:   decisions
 ---
 
 A few friends seem stuck in that luxurious rut: too many options.  It inspired a section for [Decision Hacks](http://decisionhacks.co):

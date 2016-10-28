@@ -2,7 +2,7 @@
 layout: post
 title:  "Constraints - 6 months later"
 date:   2015-04-19 11:55:27
-tags:   
+tags:   personal
 ---
 
 It's scary to look back at how rough things were 6 months ago - [complications from mononucleosis left me with 4 productive hours per day - and a new perspective on life](/constraints).

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips on choosing your customer learning method"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development decisions learning
+tags:   lean-startup decisions 
 ---
 
 Exploration, pitching and concierge are 3 common experiment categories in the startup world.  Often these are incorrectly seen as steps, but they're not. This will help choose which method is appropriate.

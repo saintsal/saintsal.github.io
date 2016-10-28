@@ -2,7 +2,7 @@
 layout: post
 title:  "Intro to Kanban"
 date:   2013-11-23 15:13:33
-tags:   
+tags:   lean-startup leancamp
 ---
 
 Chris Parsons (@chrismdp) at the Agile UX Retreat in London, giving us an overview of Kanban from an Agile perspective.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Time for a buzzword diet?"
 date:   2013-11-23 15:13:33
-tags:   community
+tags:   community education
 ---
 
 I've been <span style="text-decoration: line-through;">swimming</span> drowning in buzzwords for a while, being into startups and all.

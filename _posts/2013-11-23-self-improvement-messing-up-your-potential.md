@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-improvement vs self-confidence"
 date:   2013-11-23 15:13:33
-tags:   decisions role-models
+tags:   decisions personal
 ---
 
 <blockquote>"Releasing your potential is a very dangerous idea. You should stay away from your potential. You'll mess it up."  - <a href="http://www.youtube.com/watch?gl=GB&amp;hl=en-GB&amp;v=yNKoH84ioz0">Dylan Moran</a></blockquote>

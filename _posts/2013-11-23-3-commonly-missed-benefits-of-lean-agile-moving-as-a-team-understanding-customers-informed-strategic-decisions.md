@@ -2,7 +2,7 @@
 layout: post
 title:  "3 commonly missed benefits of Lean & Agile"
 date:   2013-11-23 15:13:33
-tags:   agile decisions lean lean-startup
+tags:   decisions lean-startup
 ---
 
 The business benefits of Agile and Lean are often misunderstood.  I've seen this lead to painful attempts.

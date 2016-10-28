@@ -2,7 +2,7 @@
 layout: post
 title:  "A Leancamp including Architecture, Fashion and Science? Leancamp Barcelona Mission"
 date:   2013-11-23 15:13:33
-tags:   leancamp
+tags:   leancamp community
 ---
 
 [caption id="" align="aligncenter" width="367" caption="SaintSal in Barcelona - Homage to Desigual!"]<img title="SaintSal in Barcelona - Homage to Desigual" src="https://img.skitch.com/20110906-xwib7x4e4u4ffwcdnp5mh3w2f7.jpg" alt="SaintSal in Barcelona - Homage to Desigual" width="367" height="151" />

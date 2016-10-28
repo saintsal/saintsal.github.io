@@ -2,7 +2,7 @@
 layout: post
 title:  "What can stop Lean Startup from becoming dogma?"
 date:   2013-11-23 15:13:33
-tags:   agile community lean-startup learning
+tags:   community lean-startup 
 ---
 
 There’s a conversation unfolding about <a href="http://rtabl.es/leanstartup" target="_blank">the future of Lean Startup on RoundTables</a>, and<a href="http://twitter.com/pv">Patrick Vlaskovits</a> pointed out:

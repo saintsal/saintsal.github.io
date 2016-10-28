@@ -2,7 +2,7 @@
 layout: post
 title:  "Entrepreneurs are like fish"
 date:   2014-06-15 00:39:49
-tags:   effectuation lean-startup
+tags:   lean-startup
 ---
 
 While I was in Hong Kong last year, I got a beautiful gift that had deep symbolism: a small fish sculpture on a necklace.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why innovation is alive and well: Peter Thiel vs the Science Fiction masters."
 date:   2013-11-23 15:13:33
-tags:   trends
+tags:   startups community
 ---
 
 <span style="font-size: 10pt;"><em>* This is a significantly more tongue-in-cheek rewrite of this post, after I read <a href="http://www.foundersfund.com/the-future">The Founders Fund Manifesto</a> which seems to have kicked off all this ballyhooing.</em></span>

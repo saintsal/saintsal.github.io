@@ -2,7 +2,7 @@
 layout: post
 title:  "How do Lean and Agile teams deliver working code faster? A technical explanation for non-techies."
 date:   2013-11-23 15:13:33
-tags:   agile lean-startup
+tags:   lean-startup leadership
 ---
 
 Agile is associated with speed. The promise of Agile is working code faster, but how does this happen in practice? Though practices like Test-driven Development (TDD,) Continuous Integration (CI) and Continuous Deployment (CD.)

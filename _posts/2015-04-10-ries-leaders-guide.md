@@ -2,7 +2,7 @@
 layout: post
 title:  "Intellectual Honesty - Eric Ries and The Leaders' Guide"
 date:   2015-04-10 11:00:35
-tags:   
+tags:   lean-startup
 ---
 
 Andrew Chen just wrote the great story about [his first encounter with Eric](http://andrewchen.co/how-i-first-met-eric-ries-and-also-why-ive-ordered-his-new-kickstarter-exclusive-book-the-leaders-guide/), and why he's backed Eric's latest book [The Leaders' Guide](https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries). It paints a bit of the picture of the early days, so inspired me to share how I've seen Eric grow from an unknown to an icon -- and what I think drove him to do so.

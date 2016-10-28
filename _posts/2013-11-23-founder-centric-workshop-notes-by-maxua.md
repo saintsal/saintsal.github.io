@@ -2,7 +2,7 @@
 layout: post
 title:  "Founder-centric workshop notes /by @maxua"
 date:   2013-11-23 15:13:33
-tags:   business-models lean-startup
+tags:   business-models lean-startup education
 ---
 
 Lately, I've been doing one-day workshops, based on the Foundation Skills day at <a href="http://www.foundercentric.com">Founder-Centric</a>, with different accelerators around Europe. The goal of this day is to teach the principles behind Lean, Lean Startup and Business Model Generation, with a particular focus on practical application and "gotchas" for startups.

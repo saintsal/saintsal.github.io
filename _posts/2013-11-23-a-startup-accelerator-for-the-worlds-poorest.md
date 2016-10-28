@@ -2,7 +2,7 @@
 layout: post
 title:  "A startup accelerator for the world’s poorest"
 date:   2013-11-23 15:13:33
-tags:   trends developing-economies village-accelerator
+tags:   growth-economies community startups 
 ---
 
 There's an opportunity emerging that I'm compelled to explore, and I've written about it on Medium.

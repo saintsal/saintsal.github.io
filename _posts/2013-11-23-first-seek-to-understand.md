@@ -2,7 +2,7 @@
 layout: post
 title:  "First, seek to understand."
 date:   2013-11-23 15:13:33
-tags:   business-models Customer-Development lean-startup leancamp
+tags:   business-models decisions lean-startup leancamp
 ---
 
 Whether it's negotiation, mediation or even international politics, we know it's important to <a href="http://www.foundercentric.com/learn-then-confirm/">first seek to understand the other side</a>. When launching a business, we know it makes sense to seek understanding about our customers needs before trying to change their behaviour.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Using business model design to raise more for charity"
 date:   2014-07-30 17:17:20
-tags:   business-models social
+tags:   business-models 
 ---
 
 I used to have heavy metal hair. Then [I shaved my head for charity](http://saintsal.com/a-good-reason-to-shave-your-head/).  I didn't have any organised campaign to back me, so relied on some newly learned skills in business model innovation instead!

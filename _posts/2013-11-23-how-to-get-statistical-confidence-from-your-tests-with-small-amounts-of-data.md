@@ -2,7 +2,7 @@
 layout: post
 title:  "How to get statistical confidence from your tests with small amounts of data."
 date:   2013-11-23 15:13:33
-tags:   experiment-design lean-startup
+tags:   decisions lean-startup
 ---
 
 <em>tl;dr Split-testing doesn't verify your numbers, it only verifies which option is better. If one of the options tested is a clear winner, you'll know with small amounts of data. So, I use split-tests to look for big winners. If my test doesn't show a big winner quickly, I move on quickly.</em>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Forcing myself to take Pomodoro breaks"
 date:   2013-11-23 15:13:33
-tags:   agile
+tags:   personal
 ---
 
 I'm awful at taking breaks once I get in the zone, but I've noticed that this is counter-productive by the end of the day.  What's "in the zone" earlier in the day ends up being staring at the screen by the end of the day.

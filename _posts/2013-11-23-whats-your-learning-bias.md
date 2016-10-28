@@ -2,7 +2,7 @@
 layout: post
 title:  "What's your learning bias?"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development leanstartup learning
+tags:   lean-startup decisions
 ---
 
 <p style="text-align: center;"><em>"If you already think you are a great singer and a well-happening front person, we have a problem. It means you will have the sort of ego that will render it totally impossible for you to be objective about everything else that's got to be done." </em> - The Manual (How to Have a Number One the Easy Way) by The KLF</p>

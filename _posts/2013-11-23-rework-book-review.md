@@ -2,7 +2,7 @@
 layout: post
 title:  "Rework - Book Review"
 date:   2013-11-23 15:13:33
-tags:   
+tags:   startups leadership
 ---
 
 A few questions out there about Rework, the new 37 Signals book. I've had an advanced copy for a few months and I review it here.  

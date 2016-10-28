@@ -2,7 +2,7 @@
 layout: post
 title:  "The future of Lean Startup - 9 areas I'm watching for faster market traction"
 date:   2013-11-23 15:13:33
-tags:   business-models Customer-Development experiment-design lean-startup leancamp trends
+tags:   business-models lean-startup leancamp decisions
 ---
 
 Lean Startup's great strength is that it evolves – it shows its practitioners what really works and what doesn't. This makes <a href="http://leanca.mp">Leancamp</a> work - Leancamp creates bridges from Lean Startup to other disciplines so we all find faster ways to get market traction. The business model innovation and user experience design communities have joined us, and sharing our apparatus and experiences has benefitted in both directions.

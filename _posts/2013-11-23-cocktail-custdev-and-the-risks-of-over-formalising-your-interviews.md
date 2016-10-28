@@ -2,7 +2,7 @@
 layout: post
 title:  "Cocktail CustDev - and the risks of over-formalising your interviews"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development learning
+tags:   lean-startup decisions
 ---
 
 At the early stage of CustDev - Customer Discovery - you're seeking a commercial opportunity that shows strong market pull. This type of discovery happens much faster with exploratory conversations.

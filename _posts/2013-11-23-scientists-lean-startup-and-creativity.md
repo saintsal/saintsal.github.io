@@ -2,7 +2,7 @@
 layout: post
 title:  "Scientists, Lean Startup and creativity"
 date:   2013-11-23 15:13:33
-tags:   creativity leanstartup science vision
+tags:   decisions lean-startup 
 ---
 
 When I told a table full of biologists about Lean Startup, one asked, "doesn't that mean you're taking the creativity out of entrepreneurship?"

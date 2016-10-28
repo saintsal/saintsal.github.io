@@ -2,7 +2,7 @@
 layout: post
 title:  "The Immediate Response Fallacy"
 date:   2014-03-18 19:38:23
-tags:   experiment-design lean-startup
+tags:   decisions lean-startup
 ---
 
 #### Why a lot of startup experiments mislead us into believing customers don’t care.

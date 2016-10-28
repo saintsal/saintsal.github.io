@@ -2,7 +2,7 @@
 layout: post
 title:  "Better learning through velocity. How to use Kanban to learn faster."
 date:   2013-11-23 15:13:33
-tags:   decisions lean-startup learning
+tags:   decisions lean-startup 
 ---
 
 <blockquote><em><strong>Always choose the option that minimizes the total time through the feedback loop. – Eric Ries</strong></em></blockquote>

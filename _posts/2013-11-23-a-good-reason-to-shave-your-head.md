@@ -2,7 +2,7 @@
 layout: post
 title:  "A good reason to shave your head."
 date:   2013-11-23 15:13:33
-tags:   
+tags:   personal
 ---
 
 <script type="text/javascript">// < ![CDATA[

@@ -2,7 +2,7 @@
 layout: post
 title:  "How we get a Leancamp started. Runway, Affordable Loss and MVPs in the event business."
 date:   2013-11-23 15:13:33
-tags:   community effectuation leancamp
+tags:   community leancamp
 ---
 
 <p style="padding-top: 0px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px; border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; line-height: 18px; color: #2e2e2e; font-family: Arial, Verdana, sans-serif; border-width: 0px; margin: 0px;"><em style="border-style: initial; border-color: initial; border-image: initial; outline-width: 0px; outline-style: initial; outline-color: initial; vertical-align: baseline; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: transparent; border-width: 0px; padding: 0px; margin: 0px;">As part of our support program for up-and-coming Leancamp organisers, we’ll be sharing our lessons learned from past events.</em></p>

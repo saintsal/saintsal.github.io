@@ -2,7 +2,7 @@
 layout: post
 title:  "Industry Models: Design Secrets From The Fashion Business"
 date:   2013-11-23 15:13:33
-tags:   Arts Augmented-reality BBC Fashion-design Future-Technology-Radar Haute-couture product-design Retail Wearable-computer
+tags:   business-models leancamp
 ---
 
 As New Media matures, where will you stand? There are strong, underlying parallels between New Media and Fashion. Leading designers make decisions that trickle down through trends, standards, cannibalisation, commercial feedback and Agile-like processes. The fashion industry has already matured around these dynamics – what can we learn from it?

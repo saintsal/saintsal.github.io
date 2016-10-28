@@ -2,7 +2,7 @@
 layout: post
 title:  "Essential Customer Development skills - Softball, Anchor and Deflection questions"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development
+tags:   lean-startup decisions startups education
 ---
 
 Customer Development might be a process, but conversation is a skill.   Particularly, getting the information you want depends on your skill in controlling the momentum of the conversation.

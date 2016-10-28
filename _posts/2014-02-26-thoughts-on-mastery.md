@@ -2,7 +2,7 @@
 layout: post
 title:  "Mastery"
 date:   2014-02-26 09:46:51
-tags:   Customer-Development decisions lean-startup
+tags:   education decisions lean-startup
 ---
 
 Seems we're getting rusty with technique, instead letting ourselves get caught up in process and tools. 

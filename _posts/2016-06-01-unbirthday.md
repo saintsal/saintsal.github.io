@@ -2,7 +2,7 @@
 layout: post
 title:  "Thanks but it’s not my birthday, Facebook."
 date:   2016-06-01 19:17:36
-tags:   
+tags:   privacy
 ---
 
 I gave Facebook the wrong birthday, and set my privacy settings to not share it. Guess what?

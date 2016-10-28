@@ -2,7 +2,7 @@
 layout: post
 title:  "Can Creatives be accelerated?"
 date:   2013-11-23 15:13:33
-tags:   accelerator-design
+tags:   education community
 ---
 
 The accelerator world is diffusing into niches, led by programme directors who challenge the conventional accelerator business model. One that's really pushing the boundaries is 

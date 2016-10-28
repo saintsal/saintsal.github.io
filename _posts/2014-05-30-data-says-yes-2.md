@@ -2,7 +2,7 @@
 layout: post
 title:  "The Data Always Says Yes"
 date:   2014-05-30 12:04:15
-tags:   experiment-design
+tags:   decisions
 ---
 
 Our ability to spot opportunities is limited by our intentions, even when we're trying to be scientific.

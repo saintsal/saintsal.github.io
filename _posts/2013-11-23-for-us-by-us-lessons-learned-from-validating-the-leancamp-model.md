@@ -2,7 +2,7 @@
 layout: post
 title:  "For us, by us. Lessons learned from validating the Leancamp model."
 date:   2013-11-23 15:13:33
-tags:   business-models community experiment-design leancamp prototyping
+tags:   business-models community decisions leancamp 
 ---
 
 Since the first Leancamp, it’s been clear it built community.  The problem has been that it is more expensive than a Barcamp, so the sponsorship model has been much tougher to make work. The question of what Leancamp was – a community, a charity, a barcamp, an event business, a knowledge transfer platform, a social enterprise – actually didn’t matter as much as how to make it financially sustainable.

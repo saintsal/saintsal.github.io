@@ -2,7 +2,7 @@
 layout: post
 title:  "If it can't scale, can it spread?"
 date:   2013-11-23 15:13:33
-tags:   business-models community events growth
+tags:   business-models community 
 ---
 
 Since the beginning of Leancamp, I’ve been looking for a way to make the unconference model financially-independent – with the goal of synthesizing its community values with a commercially-viable way to grow. An interesting problem, because by Lean Startup measures, Leancamp has problem/solution fit – but at its heart it’s not a business, it’s a community. I’m happy to invest my time right now, but I’d like to see it flourish on its own.

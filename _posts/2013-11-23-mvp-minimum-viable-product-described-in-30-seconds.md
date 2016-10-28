@@ -2,7 +2,7 @@
 layout: post
 title:  "MVP (Minimum Viable Product) described in 30 seconds."
 date:   2013-11-23 15:13:33
-tags:   
+tags:   lean-startup
 ---
 
 What's this MVP thing entrepreneurs are talking about? Find out in 30 seconds. 

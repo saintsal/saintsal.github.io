@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Enterprise meets Lean Startup - Comments on London Meetup 1"
 date:   2013-11-23 15:13:33
-tags:   
+tags:   lean-startup community
 ---
 
 If you missed the first London meetup, it was a fast-paced discussion covering a lot of topics, including social enterprise and getting started. I cover and comment on a few of them here.  

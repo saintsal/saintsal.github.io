@@ -2,7 +2,7 @@
 layout: post
 title:  "Accelerator Design - 5 Questions That Define Success"
 date:   2013-11-23 15:13:33
-tags:   business-models accelerator-design
+tags:   business-models startups community
 ---
 
 The accelerator business is moving fast, and <a href="http://www.saintsal.com/2013/09/accelerator-design-approaches/ ‎">everyone is figuring it out as we go</a>. Accelerators are quickly becoming more diverse, the contexts accelerators operate within are changing quickly, so a look at the model of your programme can add value quickly.

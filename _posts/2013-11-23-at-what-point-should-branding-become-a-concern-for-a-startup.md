@@ -2,7 +2,7 @@
 layout: post
 title:  "When should branding become a concern for a startup?"
 date:   2013-11-23 15:13:33
-tags:   Customer-Development branding
+tags:   startups
 ---
 
 <blockquote><em>Short version: Think of your brand as two parts: the customers' expectation at the core, and the surface elements that signal that expectation.  Usually, it's less wasteful to get the expectation right first (through conversation and low-fi prototypes), then invest in the surface elements once the brand expectation, customer needs and business model are validated.</em></blockquote>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Two accelerator design approaches I admire"
 date:   2013-11-23 15:13:33
-tags:   business-models accelerator-design
+tags:   business-models startups community
 ---
 
 I've worked with <a href="http://foundercentric.com">20 accelerators over the last year</a> and I've noticed two approaches I admire, Just Do It and Challenge The Model.

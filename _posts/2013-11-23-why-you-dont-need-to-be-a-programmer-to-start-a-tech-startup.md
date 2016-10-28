@@ -2,7 +2,7 @@
 layout: post
 title:  "Why you don't need to be a programmer to start a tech startup"
 date:   2013-11-23 15:13:33
-tags:   team
+tags:   startups community
 ---
 
 A lot of would-be founders with ideas and passion allow themselves to be paralysed, waiting for a tech co-founder. Yet, seasoned tech founders know the hardest parts of startups usually don't involve tech. That's why their eyes glaze over when you tell them your idea and ask them about how to build it.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Expanding through partnerships"
 date:   2014-05-30 12:29:43
-tags:   
+tags:   business-models community
 ---
 
 Bulgarian startups, like those in many other European countries, continually face a problem: growing beyond our local markets. 

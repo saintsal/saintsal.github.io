@@ -2,7 +2,7 @@
 layout: post
 title:  "A Visual Language For Finance Patterns"
 date:   2013-11-23 15:13:33
-tags:   learning
+tags:   education decisions
 ---
 
 <strong>You don't need numbers to understand many important dynamics in accounting.</strong>
