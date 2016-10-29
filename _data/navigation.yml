@@ -2,14 +2,24 @@
 main:
 
 side:
-  - title: "Founder of"
+  - title: "Articles"
     children:
-    - title: "Source Institute"
-      url: http://source.institute
-    - title: "Founder Centric"
-      url: http://foundercentric.com
-    - title: "Leancamp"
-      url: http://leancamp.net
+    - title: "Community Building"
+      url: /tags/community
+    - title: "Startups"
+      url: /tags/startups
+    - title: "Decision Making"
+      url: /tags/decisions
+    - title: "Education"
+      url: /tags/education
+    - title: "Digital Rights"
+      url: /tags/privacy
+    - title: "Personal"
+      url: /tags/personal
+    - title: "More..."
+      url: /tags/
+  - title: "Subscribe by email
+    url: http://eepurl.com/bavfAb/
 
 post:
   - title: "Books"
@@ -20,12 +30,22 @@ post:
       url: http://mentorimpact.co
     - title: "Accelerator Design Guide"
       url: http://guides.co/g/the-accelerator-design-guide/
-  - title: "Founder of"
+  - title: "Articles"
     children:
-    - title: "Source Institute"
-      url: http://source.institute
-    - title: "Founder Centric"
-      url: http://foundercentric.com
-    - title: "Leancamp"
-      url: http://leancamp.net
+    - title: "Community Building"
+      url: /tags/community
+    - title: "Startups"
+      url: /tags/startups
+    - title: "Decision Making"
+      url: /tags/decisions
+    - title: "Education"
+      url: /tags/education
+    - title: "Digital Rights"
+      url: /tags/privacy
+    - title: "Personal"
+      url: /tags/personal
+    - title: "More..."
+      url: /tags
+  - title: "Subscribe by email..."
+    url: http://eepurl.com/bavfAb
 

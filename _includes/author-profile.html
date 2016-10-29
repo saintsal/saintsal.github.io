@@ -7,16 +7,28 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
+    {% if author.homepage%}
+      <a href="{{ author.homepage }}">
+    {% endif %}
     {% if author.avatar contains "http" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
+    {% if author.homepage%}
+      </a>
+    {% endif %}
   </div>
 
   <div class="author__content">
+    {% if author.homepage%}
+      <a href="{{ author.homepage }}">
+    {% endif %}
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.homepage%}
+      </a>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
