@@ -18,8 +18,8 @@ side:
       url: /tags/personal
     - title: "More..."
       url: /tags/
-  - title: "Subscribe by email
-    url: http://eepurl.com/bavfAb/
+  - title: "Subscribe by email"
+    url: http://eepurl.com/bavfAb
 
 post:
   - title: "Books"
@@ -46,6 +46,6 @@ post:
       url: /tags/personal
     - title: "More..."
       url: /tags
-  - title: "Subscribe by email..."
+  - title: "Subscribe by email"
     url: http://eepurl.com/bavfAb
 
