@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal Data Literacy"
 date:   2016-07-03
-tags:   digital-rights
+tags:   privacy
 ---
 
 At the age of 19, still pimple-faced and barely not a virgin, I was hired to make decisions that would change strangers' lives.
