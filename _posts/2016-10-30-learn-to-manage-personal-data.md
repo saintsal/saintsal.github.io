@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Personal Data Literacy"
-date:   2016-07-03
+date:   2016-10-30
 tags:   privacy
 ---
 
