@@ -5,7 +5,7 @@ date:   2016-07-03
 tags:   privacy
 ---
 
-At the age of 19, still pimple-faced and barely not a virgin, I was hired to make decisions that would change strangers' lives.
+At the age of 19, still pimple-faced and barely out of high school, I was hired to make decisions that would change strangers' lives.
 
 Day after day was filled with simple yes or no decisions.  If yes, they'd get a tool that would make their lives easier.  No, they'd go without and continue struggling.
 
