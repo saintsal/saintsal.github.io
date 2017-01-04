@@ -25,7 +25,8 @@ en: &DEFAULT_EN
   feed_label            : "Feed"
   powered_by            : "Powered by"
   website_label         : "Website"
-  email_label           : "Email"
+  email_label           : "Email Me"
+  subscribe:            : "Subscribe By Email"
   recent_posts          : "Recent Posts"
 en-US:
   <<: *DEFAULT_EN
