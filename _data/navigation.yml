@@ -2,6 +2,8 @@
 main:
 
 side:
+  - title: "Subscribe by email"
+    url: http://eepurl.com/bavfAb
   - title: "Articles"
     children:
     - title: "Community Building"
@@ -18,10 +20,10 @@ side:
       url: /tags/personal
     - title: "More..."
       url: /tags/
-  - title: "Subscribe by email"
-    url: http://eepurl.com/bavfAb
 
 post:
+  - title: "Subscribe by email"
+    url: http://eepurl.com/bavfAb
   - title: "Books"
     children:
     - title: "Decision Hacks"
@@ -46,6 +48,4 @@ post:
       url: /tags/personal
     - title: "More..."
       url: /tags
-  - title: "Subscribe by email"
-    url: http://eepurl.com/bavfAb
 
