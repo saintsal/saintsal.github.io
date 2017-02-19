@@ -21,12 +21,13 @@ At first, I was misdiagnosed. I was told it was some kind of sinus bacteria conn
 
 I even thought I’d manage to get through my then 1000+ email backlog, but didn’t. A sign the water’d got up to *33 degrees*. A sign I didn’t notice.
 
-After each trip, I got sick again but just think it was overwork. I’d have a week or so to halfway recover in time for the next trip, and the cycle continued, slowly worstening.
+After each trip, I got sick again but just think it was overwork. I’d have a week or so to halfway recover in time for the next trip, and the cycle continued, slowly worsening.
 
 *35 degrees.*
-##Embracing contraints
 
-[Embracing contraints](https://gettingreal.37signals.com/ch03_Embrace_Constraints.php) is a popular attitude in startups, but in this case, the constraints have sneakily crept up on me — unnoticed — over a year. The constraints embraced me, and I was none the wiser.
+##Embracing constraints
+
+[Embracing constraints](https://gettingreal.37signals.com/ch03_Embrace_Constraints.php) is a popular attitude in startups, but in this case, the constraints have sneakily crept up on me — unnoticed — over a year. The constraints embraced me, and I was none the wiser.
 
 You can get caught up in life’s artificial pressures and never realise how much you’re affected. I misattributed my affliction, but in doing so allowed it to get worse faster.
 
@@ -45,19 +46,21 @@ I need immunoboosters since parts of my immunesystem are 75 times out of accepta
 It’s too late for me to call the shots. My condition makes the decisions these days.
 
 I’m in a similar predicament to all the overworked job burnouts, or failed business plans. Discarded husks once containing so much promise, energy and good will. The silver lining is that Mono turned up the heat a bit too fast so at least I noticed.
+
 ##Lessons learned
 
-Over this year, I’ve experienced a kind of sneak peak at the future, when I’m a grumpy old man with only a few good hours each day. And this has debunked a bunch of myths I was letting myself beleive.
+Over this year, I’ve experienced a kind of sneak peak at the future, when I’m a grumpy old man with only a few good hours each day. And this has debunked a bunch of myths I was letting myself believe.
 
 ### Motivation isn’t the answer
 
-I’m lucky enough to own my own business, do what I love, and get paid for it. I work because I want to, not because I need to. I love who I work with. Master of my own destiny and all that. I feel priviledged, but that doesn’t mean I can keep pushing myself.
+I’m lucky enough to own my own business, do what I love, and get paid for it. I work because I want to, not because I need to. I love who I work with. Master of my own destiny and all that. I feel privileged, but that doesn’t mean I can keep pushing myself.
 
 ### Hustle is a lazy and misleading antidote
 
-Move fast and break things. Hustle! Sleep when you’re dead, right? Sure, sometimes it makes sense to whip open a can of hustle, but just as often its egotistical nonesense masquerading as good business practice.
+Move fast and break things. Hustle! Sleep when you’re dead, right? Sure, sometimes it makes sense to whip open a can of hustle, but just as often its egotistical nonsense masquerading as good business practice.
 
 Hustle and persistence — use them wisely, or they’ll use you up.
+
 ### Saying no isn’t enough
 
 Looking back, I’ve been forced to be more decisive, which is a good thing. I’ve learned to pick my battles.
@@ -65,6 +68,7 @@ Looking back, I’ve been forced to be more decisive, which is a good thing. I�
 The problem is that I’ve picked the wrong battles.
 
 My actions haven’t emphasised the important things, simply because I underestimated my own, dwindling, capacity.
+
 ### Urgency is deceptive.
 
 As you lose power, you don’t adjust your estimate of your capacity. Things still seem as doable as before.
@@ -78,6 +82,7 @@ That’s how important things like relationships fade. You’ll always make thos
 *60 degrees.* Your mom resorts to posting on your Facebook wall.
 
 You convince yourself that you’ll stay up late this weekend to call her. You haven’t realised that your definition of late has gone from 2am to 10pm.
+
 ##Hindsight
 
 When you look back on all that hard work you did in your younger years, you’ll probably remember how easily you could handle all-nighters, working through epic hangovers or sucking up gruelling travel schedules. What for?
@@ -88,6 +93,6 @@ This feels like the same thing, only a decade later. I’ve only learned to focu
 
 But this time the culprit isn’t someone else making false promises, it’s my own hubris. My future self is looking back, asking, “why did you waste your energy like that?”
 
-My constraints got the better of me. I thought there was more of me to go around. It’s time to embrace my constraints once again — and readjust my limited energy towards what truely matters.
+My constraints got the better of me. I thought there was more of me to go around. It’s time to embrace my constraints once again — and readjust my limited energy towards what truly matters.
 
 
