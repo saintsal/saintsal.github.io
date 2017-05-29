@@ -1,0 +1,43 @@
+# main links
+main:
+
+side:
+  - title: "Articles"
+    children:
+    - title: "Community Building"
+      url: /tags/community
+    - title: "Startups"
+      url: /tags/startups
+    - title: "Decision Making"
+      url: /tags/decisions
+    - title: "Education"
+      url: /tags/education
+    - title: "Privacy"
+      url: /tags/privacy
+    - title: "More..."
+      url: /tags/
+
+post:
+  - title: "Books"
+    children:
+    - title: "Decision Hacks"
+      url: http://decisionhacks.co
+    - title: "Mentor Impact"
+      url: http://mentorimpact.co
+    - title: "Accelerator Design Guide"
+      url: http://guides.co/g/the-accelerator-design-guide/
+  - title: "Articles"
+    children:
+    - title: "Community Building"
+      url: /tags/community
+    - title: "Startups"
+      url: /tags/startups
+    - title: "Decision Making"
+      url: /tags/decisions
+    - title: "Education"
+      url: /tags/education
+    - title: "Privacy"
+      url: /tags/privacy
+    - title: "More..."
+      url: /tags
+

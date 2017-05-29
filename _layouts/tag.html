@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  <div class="archive">
+    <h1 class="page__title"><em>{{ site.data.tags[page.tag].name }}</em> Posts</h1>
+    {% include base_path %}
+  <table class="post-list">
+    {% for post in site.tags[page.tag] %}
+      <tr>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <td class="post-meta"><span class="post-meta">{{ post.date | date: date_format }}</span></td>
+        <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><br/>
+      {% if post.excerpt %}<p class="post-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}</td>
+      </tr>
+    {% endfor %}
+  </table>
+
+  </div>
+</div>
