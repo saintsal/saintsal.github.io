@@ -1,0 +1,38 @@
+body { font-family: 'Oxygen', sans-serif; font-size: 16px; line-height: 26px; max-width: 30rem; margin: 0px auto; padding: 0 0.5rem; color: #404040; background: #fff; width: 84%; padding-top: 3rem; }
+p { margin-bottom: 40px}
+h2 {margin-bottom: 0}
+img { max-width: 14em; width: 90%; } 
+ul { padding-left: 1em; }
+form { border: 1px #000 solid; padding: 10%; width: 100%; max-width: 90%; margin-left: -10%; margin-top: 3rem; margin-bottom: 3rem; font-size: 80%; line-height: 130%; text-align: center;}
+input { max-width: 100%; }
+
+.expandcontract { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
+.fluid-width-video-wrapper { width: 100%; position: relative; padding: 0; }
+.fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.fa { position: absolute; left: -4rem; color: #18c953;}
+.fa-stack {position: absolute; }
+.logo { display: block; position: relative; left: 0; margin-top:30px;}
+img.logo { max-width: 60%; width: 60%; }
+.cred { font-size: 70%; line-height: 130%; margin-top: 1em;}
+h2 i.fa { margin-bottom: 20px; }
+.cred { font-size: 70%; }
+.cred img { margin-left: 0.4em; height: 2em; position: relative; width: auto; top: .7em; }
+.partners img { margin-left: 0.4em; height: 4em; position: relative; width: auto; top: .7em; }
+.container { position: relative; margin-left: 5rem; margin-right: 0.5rem;}
+.site-title { font-size: 3rem; line-height: 3.2rem; text-decoration: none; font-weight: 700; }
+.page-post .site-title { font-size: 18px; line-height: 2.2rem; display: inline; }
+.page-post h1 { font-size: 3rem; line-height: 3.2rem; }
+
+.post-list td { padding-bottom: 5px; line-height: 22px; }
+.post-list span { color: #aaa; font-family: Monaco, "Courier New", monospace; font-size: 80%; }
+.post-list a {text-decoration: none; }
+td.post-meta { width: 7rem; vertical-align: top; line-height: 22px; }
+
+.site-footer ul, ul.books { list-style-type: none; padding-left: 0; }
+.site-footer li { padding: 0 2rem 0 0; margin: 0; display: inline; }
+.site-footer a { text-decoration: none; }
+.books li { padding: 0; margin: 0; float: left; width: 50%; }
+.books .title {font-weight: bold; }
+.books a { text-decoration: none; }
+

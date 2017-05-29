@@ -4,23 +4,33 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-  
   {{ content }}
+  
+  <div class="expandcontract"> <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;"><iframe src="https://player.vimeo.com/video/178902763?autoplay=0&amp;byline=0&amp;portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" id="fitvid0" frameborder="0"></iframe></div></div>
 
-  <ul class="post-list">
+ <p>My energy mainly goes into <a href="http://source.institute">Source Institute</a>, which designs peer-to-peer educational programmes for fast-changing, multi-disciplinary topics.  We've built some useful educational programs covering technology in Sub-Saharan Africa and Artificial Intelligence.  
+ <p>I've also co-founded <a href="http://africaprize.co">The Africa Prize For Engineering Innovation</a>, <a href="http://foundercentric.com">Founder Centric</a>, and <a href="http://leancamp.net">Leancamp</a>.
+
+  <h2>Books</h2>
+
+  <ul class="books">
+  <li><a href="http://mentorimpact.com"><img src="{{ "/assets/images/mentorimpactcover.png" | relative_url }}">
+    <span class="title">Mentor Impact</span> - how mentors truly change startups.</a>
+
+  <li><a href="http://decisionhacks.co"><img src="{{ "/assets/images/decisionhackscover.png" | relative_url }}">
+    <span class="title">Decision Hacks</span> - how startup founders make good decisions fast.</a>
+    </ul>
+
+  <h2>Posts</h2>
+  
+  <table class="post-list">
     {% for post in site.posts %}
-      <li>
+      <tr>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
+        <td class="post-meta"><span class="post-meta">{{ post.date | date: date_format }}</span></td>
+        <td><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></td>
+      </tr>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  </table>
 
 </div>
