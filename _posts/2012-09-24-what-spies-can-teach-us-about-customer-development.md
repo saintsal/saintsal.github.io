@@ -5,7 +5,7 @@ date:   2012-09-24 15:13:33
 tags:   decisions lean-startup
 ---
 
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/09/waiting-for-the-train-flickr-thomasleuthard-.png"><img class="alignnone size-medium wp-image-1515" title="waiting for the train - flickr - thomasleuthard" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/09/waiting-for-the-train-flickr-thomasleuthard--300x225.png" alt="" width="300" height="225" /></a>
+<a href="/images/2012/09/waiting-for-the-train-flickr-thomasleuthard-.png"><img class="alignnone size-medium wp-image-1515" title="waiting for the train - flickr - thomasleuthard" src="/images/2012/09/waiting-for-the-train-flickr-thomasleuthard--300x225.png" alt="" width="300" height="225" /></a>
 
 Intelligence agencies separate their goals into <a href="http://foundercentric.com/#learnconfirm">Learn, then Confirm</a>. Many field agents are tasked solely with observation, and desk analysts compile information from multiple sources to spot patterns and form hypotheses of enemy action and intent. This means they are acting on facts. (There are notable exceptions to this - usually ranging from embarrassing to horrific.)
 <h2>Diplomats and the art of conversation</h2>

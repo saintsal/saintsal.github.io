@@ -14,9 +14,9 @@ Crystallise those at the later stages, when you've got evidence that their needs
 
 At this point, designing the surface elements should be straight-forward because they're based on real customer experience, not guesses. Invest in surface elements too soon, and they're wasted if you discover your brand's core expectation needs to change.
 
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2010/03/leancamp-logo.png"><img class="size-full wp-image-487 alignright" title="leancamp-logo" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2010/03/leancamp-logo.png" alt="" width="200" height="200" /></a>For example, the Leancamp logo took 20 minutes so we could get our first landing pages in front of real customers fast. We didn't nail our core expectation until our second event.
+<a href="/images/2010/03/leancamp-logo.png"><img class="size-full wp-image-487 alignright" title="leancamp-logo" src="/images/2010/03/leancamp-logo.png" alt="" width="200" height="200" /></a>For example, the Leancamp logo took 20 minutes so we could get our first landing pages in front of real customers fast. We didn't nail our core expectation until our second event.
 
-<img class="size-thumbnail wp-image-1161 alignleft" title="Isolator-1" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/04/Isolator-1-150x123.png" alt="" width="150" height="123" />
+<img class="size-thumbnail wp-image-1161 alignleft" title="Isolator-1" src="/images/2012/04/Isolator-1-150x123.png" alt="" width="150" height="123" />
 
 The Leancamp brand isn't about pink logos, it's about a fun, no-bullshit place to learn from other startup types. The logo and name and brand are only worth anything because we learned to set that expectation.
 

@@ -8,7 +8,7 @@ tags:   growth-economies lean-startup
 South East Asia is going through exciting and tremendous changes at the moment, even in Laos, one of its poorest countries.
 
 There, one of the best ways to rise out of poverty is to learn English, Russian, Korean or Japanese to become a tour guide. While some farming families try to get by on $500 per year, you can earn $40 per day as a tour guide in the high season.
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/12/wpid-IMG_20121210_095532.jpg"><img class="alignnone" title="IMG_20121210_095532.jpg" alt="image" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/12/wpid-IMG_20121210_095532.jpg" /></a>
+<a href="/images/2012/12/wpid-IMG_20121210_095532.jpg"><img class="alignnone" title="IMG_20121210_095532.jpg" alt="image" src="/images/2012/12/wpid-IMG_20121210_095532.jpg" /></a>
 
 So there's a common story. Lau comes from a rice-farming family, and was lucky enough to be educated while his siblings farmed rice or carried logs on their backs over mountain ranges. This means Lau sends money home every month. He feeds his whole family.
 

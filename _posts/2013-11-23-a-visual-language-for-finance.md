@@ -15,7 +15,7 @@ Sometimes people use ad-hoc visual languages to describe things.  A common lang
 
 What we have created is just a start, and doesn't yet address more complex dynamics in accounting, but we hope it will already be helpful, and grow to become more useful. So far, we've tested it on a few people to help people understand and describe solutions to cashflow problems and investment scenarios like convertible notes.
 <h2>Getting Started: The basic shapes of finance</h2>
-<img class="alignleft size-full wp-image-1057" title="Equity, Balance Sheet &amp; Profit/Loss" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/visualfinancebasics.png" alt="" width="216" height="247" />
+<img class="alignleft size-full wp-image-1057" title="Equity, Balance Sheet &amp; Profit/Loss" src="/images/2012/01/visualfinancebasics.png" alt="" width="216" height="247" />
 
 Let's start with 3 basic concepts, from which we can explore a whole range of scenarios:
 
@@ -32,7 +32,7 @@ Are we making money? This compares money you earn and money you have to spend, o
 <table width="416">
 <tbody>
 <tr>
-<td colspan="3"><img class="alignnone  wp-image-1062" title="example1" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/example1.png" alt="" width="416" height="138" /></td>
+<td colspan="3"><img class="alignnone  wp-image-1062" title="example1" src="/images/2012/01/example1.png" alt="" width="416" height="138" /></td>
 </tr>
 <tr>
 <td width="120">A line showing no assets or liabilities.</td>
@@ -44,7 +44,7 @@ Are we making money? This compares money you earn and money you have to spend, o
 <h2>Scenario: Getting investment</h2>
 Now, let's look at an investment scenario, where you're offered a small cash investment for 33% of your company.
 
-<img class=" wp-image-1070 alignnone" title="investment" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/investment.png" alt="" width="302" height="192" />
+<img class=" wp-image-1070 alignnone" title="investment" src="/images/2012/01/investment.png" alt="" width="302" height="192" />
 <table width="300">
 <tbody>
 <tr>
@@ -56,29 +56,29 @@ Now, let's look at an investment scenario, where you're offered a small cash inv
 <h2>Scenario: Getting investment with a convertible note</h2>
 Let's jump in. This is what a convertible note looks like.
 
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/convertible-note.png"><img class="alignnone size-medium wp-image-1066" title="convertible note" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/convertible-note-300x116.png" alt="" width="300" height="116" /></a>
+<a href="/images/2012/01/convertible-note.png"><img class="alignnone size-medium wp-image-1066" title="convertible note" src="/images/2012/01/convertible-note-300x116.png" alt="" width="300" height="116" /></a>
 
 The note is a contract that is structured like a loan, but that loan can convert into an equity investment based on different "triggers."
 
 Let's look at this step-by-step.
 
-<img class="alignleft size-thumbnail wp-image-1065" title="convnote1" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/convnote1-150x150.png" alt="" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-1065" title="convnote1" src="/images/2012/01/convnote1-150x150.png" alt="" width="150" height="150" />
 
 &nbsp;
 
 Like before, we'll start with a company that has some assets and some liabilities, and you own the whole company.
-<p style="clear: left;"><img class="alignleft size-thumbnail wp-image-1064" title="convnote2" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/convnote2-150x150.png" alt="" width="150" height="150" /></p>
+<p style="clear: left;"><img class="alignleft size-thumbnail wp-image-1064" title="convnote2" src="/images/2012/01/convnote2-150x150.png" alt="" width="150" height="150" /></p>
 &nbsp;
 
 Then, you get the investment as a convertible notes. Technically, this is the same as loan at this stage - you have the increase in cash which is an asset, but you also have the debt along with it. So you still balance. You're not really worth more - while the cash is a new asset, it comes with an equal new liability, the debt.
-<p style="clear: left;"><img class="alignleft size-thumbnail wp-image-1063" title="convnote3" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/convnote3-150x150.png" alt="" width="150" height="150" />Now, let's say one of the triggers comes along. This is most likely to be an investment round where you have a higher valuation, but it could be a number of things as written in your contract. In this case, it's your decision to take an investment round at a higher valuation that triggers the conversion. You can see that the equity circle gets bigger to show the higher valuation. But then the note is converted, meaning that the debt (which is a liability) goes away and is replaced by a chunk of equity in the company.</p>
+<p style="clear: left;"><img class="alignleft size-thumbnail wp-image-1063" title="convnote3" src="/images/2012/01/convnote3-150x150.png" alt="" width="150" height="150" />Now, let's say one of the triggers comes along. This is most likely to be an investment round where you have a higher valuation, but it could be a number of things as written in your contract. In this case, it's your decision to take an investment round at a higher valuation that triggers the conversion. You can see that the equity circle gets bigger to show the higher valuation. But then the note is converted, meaning that the debt (which is a liability) goes away and is replaced by a chunk of equity in the company.</p>
 (This quickly gets more complicated because other investors are involved to create the higher valuation, and there's usually the implication of valuation caps and other conditions. I can describe visually in another post if you'd like if you ask.)
 
 What we've done here is described the technicalities of a typical startup investment scenario without numbers. I've shown this to people who have never heard of convertible notes, and people have had convertible notes, and both have had a better understanding having seen the scenario.
 <h2>Problem Solving: Cashflow</h2>
 Now, let's look at a typical problem with bootstrapped startups, cashflow. I'll show you a company that looks healthy, Enterprise Telephones, which sells telephones to big companies.
 
-<img class="alignnone size-medium wp-image-1073" title="cashflow1" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/cashflow1-300x147.png" alt="" width="300" height="147" />
+<img class="alignnone size-medium wp-image-1073" title="cashflow1" src="/images/2012/01/cashflow1-300x147.png" alt="" width="300" height="147" />
 
 It has more assets than liabilities, which is good - accountants call this solvent. In the Profit and Loss over last 3 months, it's also sold a lot of telephones, at a value more than what they've spent in costs. So they're profitable.
 
@@ -89,12 +89,12 @@ The problem with Enterprise Telephones is that they've sold the phones, but have
 Here's where the finance patterns come in handy. If you find yourself in this situation, there are two immediate ways out:
 <ol>
 	<li>Look at your assets. Are there assets that can be converted to cash?
-<img class="alignnone size-thumbnail wp-image-1072" title="cashflow 2" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/cashflow-2-150x150.png" alt="" width="150" height="150" /></li>
+<img class="alignnone size-thumbnail wp-image-1072" title="cashflow 2" src="/images/2012/01/cashflow-2-150x150.png" alt="" width="150" height="150" /></li>
 	<li>Look at your expenses. Are there short-term expenses that can be put off or renegotiated?
-<img class="alignnone  wp-image-1071" title="cashflow3" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/cashflow3.png" alt="" width="196" height="149" />
+<img class="alignnone  wp-image-1071" title="cashflow3" src="/images/2012/01/cashflow3.png" alt="" width="196" height="149" />
 And in some cases, you can:</li>
 	<li>Look at your revenues &amp; liabilities. Can you presell anything now to get some cash in the door? (The cash helps now but comes with a liability - you owe the customer the product now!)
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/sketch.png"><img class="alignnone size-medium wp-image-1074" title="Cashflow4" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/01/sketch-e1325453445608-300x103.png" alt="" width="300" height="103" /></a></li>
+<a href="/images/2012/01/sketch.png"><img class="alignnone size-medium wp-image-1074" title="Cashflow4" src="/images/2012/01/sketch-e1325453445608-300x103.png" alt="" width="300" height="103" /></a></li>
 </ol>
 <h2>This visual language could be a start.</h2>
 This is how accountants "see" the situation, how they use patterns to spot problems and solve them.

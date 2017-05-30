@@ -15,8 +15,8 @@ I'll share a split-test I did on <a href="http://unbounce.com">Unbounce</a> that
 <table>
 <tbody>
 <tr>
-<td> [caption id="attachment_1547" align="alignnone" width="300"]<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2011/09/Preview-B-_Leancamp-membership_.png"><img class="size-medium wp-image-1547" title="Preview [B] - _Leancamp membership_" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2011/09/Preview-B-_Leancamp-membership_-300x165.png" alt="" width="300" height="165" /></a> Version A: Crappy starting version.</td>
-<td>[caption id="attachment_1546" align="alignnone" width="300"]<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2011/09/Preview-C-_Leancamp-membership_.png"><img class="size-medium wp-image-1546" title="Preview [C] - _Leancamp membership_" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2011/09/Preview-C-_Leancamp-membership_-300x180.png" alt="" width="300" height="180" /></a> Version B: Blatant copy of Buffer version</td>
+<td> [caption id="attachment_1547" align="alignnone" width="300"]<a href="/images/2011/09/Preview-B-_Leancamp-membership_.png"><img class="size-medium wp-image-1547" title="Preview [B] - _Leancamp membership_" src="/images/2011/09/Preview-B-_Leancamp-membership_-300x165.png" alt="" width="300" height="165" /></a> Version A: Crappy starting version.</td>
+<td>[caption id="attachment_1546" align="alignnone" width="300"]<a href="/images/2011/09/Preview-C-_Leancamp-membership_.png"><img class="size-medium wp-image-1546" title="Preview [C] - _Leancamp membership_" src="/images/2011/09/Preview-C-_Leancamp-membership_-300x180.png" alt="" width="300" height="180" /></a> Version B: Blatant copy of Buffer version</td>
 </tr>
 </tbody>
 </table>

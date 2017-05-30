@@ -13,7 +13,7 @@ The Canvas helped – almost all managed to describe their business well in 90 s
 
 The <a href="http://www.businessmodelalchemist.com/2009/07/scanning-your-business-models.html">Business Model Environment</a> is covered in Alex Osterwalder's original book, <a href="http://www.businessmodelgeneration.com">Business Model Generation</a>, but it's often overlooked. It keeps a clear distinction between what's part of your business model, and <a href="http://www.businessmodelalchemist.com/2012/05/competition-is-not-part-of-your-business-model.html">what isn't</a> – drawing the border at what's within your control.
 
-<img class="size-medium wp-image-1690" title="Business Model Environment" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/10/Business_Model_Environment1-300x248.jpg" alt="" width="300" height="248" />
+<img class="size-medium wp-image-1690" title="Business Model Environment" src="/images/2012/10/Business_Model_Environment1-300x248.jpg" alt="" width="300" height="248" />
 
 The Environment consists of 4 types of factor:
 <ul>

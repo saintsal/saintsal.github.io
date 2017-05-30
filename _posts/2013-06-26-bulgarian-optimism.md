@@ -21,7 +21,7 @@ In spite of this old idea of Bulgarian Pessimism, I'd like point out 3 <i>uniqu
 
 There's a unique way we can take advantage of this in Sofia. We can support all of the early-stage founders, whether investable or not, whether with a product, or just and idea! With so much capability, people willing to try their ideas and a scene that gives you a clear growth path, we can join and help the startup founders who are willing to give it a shot!
 
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2013/06/leancamp-sofia.jpg"><img class=" wp-image-3882   " alt="Leancamp Sofia, May 2013" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2013/06/leancamp-sofia.jpg" width="277" height="173" /></a> 
+<a href="/images/2013/06/leancamp-sofia.jpg"><img class=" wp-image-3882   " alt="Leancamp Sofia, May 2013" src="/images/2013/06/leancamp-sofia.jpg" width="277" height="173" /></a> 
 Leancamp Sofia, May 2013
 
 <h3>Startup Foundation Day - Sofia</h3>

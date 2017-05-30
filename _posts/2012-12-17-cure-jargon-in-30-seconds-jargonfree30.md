@@ -27,4 +27,4 @@ And here's a go I had 2 years ago: MVP explained in 30 seconds. (Warning: conta
 
 &nbsp;
 
-<a href="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/12/Scalability.key-1.png"><img class="alignnone size-medium wp-image-1822" title="Scalability.key-1" src="https://dl.dropboxusercontent.com/u/6606104/www/saintsal/img/2012/12/Scalability.key-1-300x247.png" alt="" width="300" height="247" /></a>
+<a href="/images/2012/12/Scalability.key-1.png"><img class="alignnone size-medium wp-image-1822" title="Scalability.key-1" src="/images/2012/12/Scalability.key-1-300x247.png" alt="" width="300" height="247" /></a>
