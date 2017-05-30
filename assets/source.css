@@ -1,7 +1,7 @@
 body { font-family: 'Oxygen', sans-serif; font-size: 16px; line-height: 26px; max-width: 30rem; margin: 0px auto; padding: 0 0.5rem; color: #404040; background: #fff; width: 84%; padding-top: 3rem; }
 p { margin-bottom: 40px}
 h2 {margin-bottom: 0}
-img { max-width: 14em; width: 90%; } 
+img { width: 100%; } 
 ul { padding-left: 1em; }
 form { border: 1px #000 solid; padding: 10%; width: 100%; max-width: 90%; margin-left: -10%; margin-top: 3rem; margin-bottom: 3rem; font-size: 80%; line-height: 130%; text-align: center;}
 input { max-width: 100%; }
@@ -42,3 +42,4 @@ td.post-meta { width: 7rem; vertical-align: top; line-height: 22px; }
 .books .title {font-weight: bold; }
 .books a { text-decoration: none; }
 
+blockquote { border-left: 2px solid #666; padding-left: 2rem; margin-left: 0rem; font-size: 20px; line-height: 30px; }
