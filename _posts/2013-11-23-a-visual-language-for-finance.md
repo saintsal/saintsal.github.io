@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Visual Language For Finance Patterns"
-date:   2013-11-23 15:13:33
+date:   2012-01-01
 tags:   education decisions
 ---
 

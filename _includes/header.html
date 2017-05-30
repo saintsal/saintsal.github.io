@@ -3,21 +3,24 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a href="{{ "/" | relative_url }}"><img class="profile-image" src="{{ '/images/salim_virani.png' | relative_url }}"></a>
+     Hi, I'm Salim, a tech entrepreneur and educator. I write about peer-to-peer education, humanitech, AI, and technology inclusion. You can <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
+
   
     {% if page_paths %}
       <nav class="site-nav">
         <div class="trigger">
           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
-            <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {% endif %}
           {% endfor %}
-        </div
+          {% if my_page.title %}
+            <a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        </div>
       </nav>
     {% endif %}
 
-    <p>Hi, I'm Sal, a tech entrepreneur and educator. I write about peer-to-peer education, humanitech, AI, and technology inclusion. You can <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
   </div>
 </header>

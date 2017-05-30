@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 commonly missed benefits of Lean & Agile"
-date:   2013-11-23 15:13:33
+date:   2012-07-01 15:13:33
 tags:   decisions lean-startup
 ---
 

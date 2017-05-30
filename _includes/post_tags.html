@@ -2,7 +2,7 @@
 <span class="post-tags {{include['tags-class']}}">
   <i class="fa fa-tags"></i>
   {% for tag in page.tags | sort %}
-    <a href="{{site.url}}{{site.baseurl}}/tags/{{ tag }}">{{ site.data.tags[tag].name }}</a>{% if forloop.last == false %}, {% endif %}
+    <a href="{{site.url}}{{site.baseurl}}/tags/{{ tag }}">{{ site.data.tags[tag].name }}</a>{% if forloop.last == false %} {% endif %}
   {% endfor %}
 </span>
 {% endif %}

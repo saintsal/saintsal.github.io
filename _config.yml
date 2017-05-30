@@ -1,4 +1,4 @@
-title: Imagine if you could learn from anyone on the planet.
+title: Imagine you could learn from anyone on the planet.
 author: Salim Virani
 email: smile@saintsal.com
 description: This is Salim Virani's blog.
@@ -11,6 +11,9 @@ github_username:  saintsal
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+
+# Analytics
+google_analytics: UA-12623470-3
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
