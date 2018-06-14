@@ -3,6 +3,7 @@ layout: post
 title:  "Village Accelerator - the story so far"
 date:   2014-08-07 09:42:15
 tags:   community personal
+featured: true
 ---
 
 Ten months ago, I shared an idea -- what if, as the Internet arrives in developing economies around the world, we could empower local people to be tech founders, with all the modern techniques we know in accelerators and education? ["An accelerator for the world's poorest."](https://medium.com/@SaintSal/a-startup-accelerator-for-the-worlds-poorest-ca9a1a6c9da0)

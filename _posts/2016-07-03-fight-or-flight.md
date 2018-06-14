@@ -3,6 +3,7 @@ layout: post
 title:  "Not just fight or flight."
 date:   2016-07-03
 tags:   personal
+featured: true
 ---
 
 Three Skinheads are running at me, and all I can think to say is, “Here Dan, hold my kebab for a sec.”

@@ -36,6 +36,6 @@ I've called myself out:
 
 * I've been focusing more on the craft of teaching Customer Development and decisions, not the tools or methodology.
 * I'm learning AngularJS so I can put my slow PHP days behind me, and stop making excuses for not shipping.
-* I'm collecting stories of fast or difficult startup decisions, for a book on [course-correction](http://www.decisionhacks.co).
+* I'm collecting stories of fast or difficult startup decisions, for a book on [startup decisions](http://www.decisionhacks.co).
 
 

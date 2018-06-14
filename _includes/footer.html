@@ -2,26 +2,21 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.description | escape }}</h2>
+      {% if page.author %}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+
+      {% endif %}</p>
+    <a href="{{ "/" | relative_url }}"><img class="profile-image" src="{{ '/images/salim_virani.png' | relative_url }}"></a>
+
+    <h2 class="footer-heading"><a href="{{site.url}}">{{ site.description | escape }}</a></h2>
+  <p>You can signup to <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
-
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+          {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}

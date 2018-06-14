@@ -4,9 +4,6 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <a href="{{ "/" | relative_url }}"><img class="profile-image" src="{{ '/images/salim_virani.png' | relative_url }}"></a>
-     Hi, I'm Salim, a tech entrepreneur and educator. I write about peer-to-peer education, humanitech, AI, and technology inclusion. You can <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
 
   
     {% if page_paths %}

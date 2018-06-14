@@ -3,6 +3,7 @@ layout: post
 title:  "Ecosystems grow around stumps"
 date:   2014-06-06 12:00:11
 tags:   community
+featured: true
 ---
 
 When I started Leancamp in London in 2009, I had this problem.  

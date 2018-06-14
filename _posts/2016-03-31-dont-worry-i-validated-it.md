@@ -3,6 +3,7 @@ layout: post
 title:  "Don't worry, I 'validated' it"
 date:   2016-03-31 08:52:48
 tags:   lean-startup
+featured: true
 ---
 
 Hearing the phrase, "I validated it" gives me regret. 

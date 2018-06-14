@@ -3,9 +3,10 @@ layout: post
 title:  "What do we do about bad startup advice?"
 date:   2013-05-13
 tags:   decisions mentoring
+featured: true
 ---
 
-I've been collecting techniques from Europe's best-respected startup mentors, and creating a package of best practices called <a href="http://mentorimpact.co">Mentor Impact</a>. One of the biggest problems raised so far is the Halo Effect.
+I've been collecting techniques from Europe's best-respected startup mentors, and creating a package of best practices called <a href="http://mentorimpact.com">Mentor Impact</a>. One of the biggest problems raised so far is the Halo Effect.
 
 <h2>The Halo Effect</h2>
 <blockquote>The halo effect is where one's judgments of a person’s character [or advice] can be influenced by one's overall impression of him or her. It can be found in a range of situations from the courtroom to the classroom. - <a href="http://en.wikipedia.org/wiki/Halo_effect">Wikipedia</a></blockquote>
