@@ -3,7 +3,6 @@ layout: post
 title:  "Why I found Sofia great for startups"
 date:   2014-07-24 15:12:15
 tags:   community personal
-featured: true
 ---
 
 Originally posted at [entrepreneur.bg](http://www.entrepreneur.bg/7952/the-unique-advantages-of-living-in-sofia-a-foreigners-perspective/), and based on my talk at Eleven's Demo Day.

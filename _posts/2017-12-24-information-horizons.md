@@ -3,35 +3,29 @@ layout: post
 title:  "Information Horizons"
 date:   2017-12-24
 tags:   privacy
+featured: true
 ---
 
-# We can still be optimistic. Not because things are going great, but because we can regain control.
+After the NSA, Facebook and Cambridge Analytica practices hit home, it's understandable if you feel there's nothing you can do to protect yourself.  There is.   I was [a few years ahead in predicting these problems](http://salimvirani.com/facebook/), and have since figured out some ways to protect myself.
 
-These days, it's tough to look around and feel positive.  So I thought I'd share something practical that helped me.
+Before we get into the practical, I cover some principles.
 
-## Living without control
 
-I live in a far corner of the European Union, Bulgaria.  Here, there are a whole generation of people who lost everything when their political system collapsed.  They lived in what we'd probably consider oppression, under Communism.  For example, Christmas had to celebrated in secret. Travel was severely limited, even within the country.  You could choose your career, but employers had greater and greater control over your life.
+## If we let them make us think we're powerless, we become powerless
 
-When that was over, their life savings were wiped out - the entry cost for Capitalism was currency collapse, hyperinflation and rebuilding an economy from scratch.  
-
-If you were fast, you managed to trade your life savings for a candy bar or a loaf of bread.  If you were lucky, you managed to get a jacket.  Then years of a new struggle. Bread lines, eating pickles all winter, watching the old politicians become powerful gangsters, and staying afloat in a country where millions of the most educated and resourced were leaving for good. Even foreign aid and investment would dissipate into corruption.
-
-I am in true awe of this generation of Bulgarians who rebuilt their country. They really know about hard work.  They know how to build their own houses, brew their own rakia, make their own clothes.  Positive role models in so many ways.
-
-They've lived their entire lives without political control.  They're more used to it than us.
-
-## Information horizons
-
-Before we get into the practical, I need to go back to primary principles.
+The first is recognising that if we allow ourselves to *feel* powerless, we become powerless.
 
 When we understand what's going on around us, we feel in control.  When some outside force that we don't understand acts on us, we don't feel in control.
+
+> "The greatest tool of the oppressor is the mind of the oppressed." - Steve Biko, South African freedom fighter
 
 Understanding what impacts us allows us to adapt. Even if we don't need to adapt, not understanding it makes it feel more threatening.
 
 ![](/assets/images/information-horizons-adaptation.png)
 
-So what happens when people somewhere else in our country, somewhere else in our world, affect us?  If we understand what's going on, we can adapt.  If we don't, we feel powerless.
+So what happens when people somewhere else in our country, somewhere else in our world, affect us? For example, through military or economic means? If we understand what's going on, we can adapt.  If we don't understand, we feel powerless.
+
+## What we're able to understand depends on what information we choose to access
 
 What we understand depends on our access to information.  
 
@@ -40,15 +34,15 @@ What we understand depends on our access to information.
 I think of this in terms of Information Horizons. 
 The distance to which we can see and understand, our Information Horizon, gives us that familiarity.  Whereas horizons are how far we can physically see, our Information Horizons are about what we can observe well enough to understand. 
 
-There are other people out there, in their own Information Horizons -- and we affect each other.  We are comfortable with what we can see, but then something comes over the horizon that we didn't expect and don't understand.
+There are other people out there, in their own Information Horizons -- and we affect each other.  
 
-The older Bulgarians, they had a more pragmatic and cynical view of how they were manipulated by their governments and cultural systems.  They knew what was going on, just like we do, but they didn't lie to themselves. 
+But when something comes over the horizon that we didn't expect and don't understand -- that's often a problem.
 
-Propaganda isn't new, and neither is restricting information to control opinions.  While the methods are changing, the general approach is the same.
+Propaganda and misinformation aren't new.  But these days, it's far more possible to control opinions by restricting information through social media bubbles. Social media bubbles reduce what you can see because they isolate your attention to a small group of people, and use algorithms to filter out information based on commercial goals, not yours.   This reduces your Information Horizon.
 
-Now that a lot of us are experiencing this lack of control and visibility, we're getting distraught.  But we don't have to be.  It might be hard, but at the moment, it doesn't need to be as hard as what the Bulgarians went through.
+How much of what you *feel* could be improved if you could understand the people that affect you?  How much of what you *know* is limited because you choose to pay attention to a small slice of information from a small group of people?  Does this make sense in such a globally-connected world?
 
-We can do something. 
+Now that a lot of us are experiencing this lack of control and visibility, we're getting distraught.  But we don't have to be.  
 
 ## How we get controlled
 
@@ -56,7 +50,7 @@ Getting practical, if you want to change things, there's a useful idea from the 
 
 ![](/assets/images/information-horizons-threat-model.png)
 
-A few years ago, most people worried about privacy were considered a little loopy.  After all, what did we have to lose by giving up our private data to marketers or our governments? Even in the Infosec world, it was considered inappropriate to look at personal information as part of a threat model.  It was more about protecting the hard data on your devices. But these days, when we look at what's going on with Facebook, Trump, Brexit and Cambridge Analytica, it's clear we have some important things to lose, not least our rights and even our opinions. 
+A few years ago, most people worried about privacy were considered a little loopy.  After all, what did we have to lose by giving up our private data to marketers or our governments? Even in the Infosec world, it was considered inappropriate to look at personal information as part of a threat model.  It was more about protecting the hard data on your devices. But these days, when we look at what's going on with Facebook, Trump, Brexit and Cambridge Analytica, it's clear we have some important data to protect that's not on our devices. we need to protect that data to protect  our democratic rights and even our opinions. 
 
 We're stuck in social media bubbles. Our Information Horizon is shrinking. Therefore, so is our understanding of what affects us, and along with it, our sense of control.  
 
@@ -64,9 +58,15 @@ This is addressable.
 
 We have control over what affects our own capacity for self-determination.  Not just on an emotional level, but on a few more practical information level.
 
-So, let me take you through a part of my Threat Model, with a view to protecting my ability to understand the world and what affects me.  I need to expect that adversaries are trying to reduce my Information Horizon and counter-act.
+So, let me take you through a part of my Threat Model, with a view to protecting my ability to understand the world and what affects me.  
+
+My fundamental realisation is that even though I'm a nobody and no government would want to "spy" on me, there are political campaigns out there that screw with what people see and beleive, and I am on their list of their millions of targets. 
+
+So from a threat modeling perspective, I need to expect that adversaries are trying to reduce my Information Horizon and then counter-act them.
 
 (Another part, a more classical threat model for data on my devices, is something I might share another time.)
+
+## Types of personal information
 
 There are two types of information that control my Information Horizon: Information about me, and information that changes me.
 
@@ -74,13 +74,20 @@ There are two types of information that control my Information Horizon: Informat
 
 ![](/assets/images/information-horizons-about-me.png)
 
-Firstly, there's the direct data that uniquely identifies me: my name, address, phone number, IP address. Unique Identifiers.
+#### Unique Identifiers.
+Firstly, there's the direct data that uniquely identifies me: my name, address, phone number, IP address. 
 
-Then, there's the data about me. My likes, my behaviours, who I communicate with and what we talk about, my whereabouts.  Behaviour data.
+#### Behaviour data.
+Then, there's the data about me. My likes, my behaviours, who I communicate with and what we talk about, my whereabouts.  
 
-From that, statistical systems can work out my psychology, my intentions, my health, my politics, even into the future. Derived data.
+#### Derived data.
+From that, statistical systems can work out my psychology, my intentions, my health, my politics, even into the future. 
 
 It's important to recognise that each subsequent layer makes the last one no longer needed.  So if someone has your Personal data, they don't need Unique Identifiers from you anymore.  (They can just match your patterns.) If they have Derived Data, they can delete your Personal Data and still know everything about you.
+
+This is why Facebook experimented with [turning on people's microphones to listen in on them](http://www.forbes.com/sites/kashmirhill/2014/05/22/facebook-wants-to-listen-in-on-what-youre-doing/), but then found they could get the same Derived Data models through other means.
+
+(They later said microphone activation was only for specific features, but they had already automatically turned on those features without consent.)
 
 
 ### Information that changes me
@@ -89,25 +96,39 @@ It's important to recognise that each subsequent layer makes the last one no lon
 
 On top of information about me, there's information that changes me, in terms of manipulating my beliefs and behaviours.
 
-There's information I have access to. I can't always get the answers I look for. There are filter bubbles even on search, and a lot of scientific knowledge is behind paywalls. And there's lots of important information that's not on the Internet.  Accessible Information.
 
-There are things I want to learn, news stories I want to research. Sought Information.
+#### Accessible Information.
+There's information I have access to. I can't always get the answers I look for. There are filter bubbles even on search, and a lot of scientific knowledge is behind paywalls. And there's lots of important information that's not on the Internet. 
 
-There's information that's placed where I pay attention. Stuff in various feeds, news on TV, opinions of friends.   Delivered Information.
+#### Sought Information.
+There are things I want to learn, news stories I want to research. 
 
-Again, there's a similar effect here, though less linear.  If an adversary can control what information you want, they don't need to control what you have access to. If they can control what's delivered to you, they can affect your opinion and control what you seek.
+#### Delivered Information.
+There's information that's placed where I pay attention. Stuff in various feeds, news on TV, opinions of friends.   
+
+Again, there's a similar effect here.  If an adversary can control what information you want, they don't need to control what you have access to. If they can control what's delivered to you, they can affect your opinion and control what you seek.
 
 ## The general threat model
-The more information about you can be used to control information that affects you, the less control you have.  This is part of how our Information Horizons are reduced.
+Information about me can be used to control what information I see.  This is part of how our Information Horizons are reduced.
 
-So now we get into how to fix the problem.
+So now we get into how to fix the problem. 
 
 ![](/assets/images/information-horizons-threat-model.png)
+
+To improve my own visilibility of information, I need to:
+
+1. Control my own habits, especially being careful about where I spend my attention and what information I consume.
+
+2. Reduce the Derived Data models about me, since those are used to systematically target me and manipulate what information I consume.
 
 # Trading control for convenience
 Let me ask you something.  You've become used to a lot of conveniences - which are you willing to give up to regain control?
 
-A lot of our "conveniences" aren't actually more convenient, they're just manipulations of our habits and emotional responses.  On the other hand, there's a huge upside in changing our habits - both politically and in feeling better.
+A lot of our "conveniences" aren't actually more convenient, they're just manipulations of our habits and emotional responses.  
+
+Facebook feels more convenient when you want to quickly send a message to someone, or see random updates from random friends.  But is it convenient at the end of a few hours wasted? Is it really convenient against alternatives, like a checking a few news sites directly for world news, or sending a text message to say what's up?
+
+And there's a huge upside in changing our habits - both politically and in feeling better.  Just ask the people who do things like [turn off notifications on their phone](https://lifehacker.com/how-i-turned-my-iphone-into-a-simple-distraction-free-1175739059).
 
 ## Change where you put your attention
 One way is to shift your habits from Delivered Information to Sought Information.  Delivered information relies on filters that we don't control, and are actually quite crude and ineffective anyway.  It might be nice that a system sort of understands what you like, but you know what you like way better.
@@ -122,7 +143,7 @@ Uninstalling apps that have feeds from your phone is a nice boost without any re
 
 We feel comfortable among like-minded people, so it's easy to become complicit in shrinking our Information Horizons.  A classic way to do this is with identity politics - put a label on a group of us and we will start to side with those people, even if we wouldn't otherwise. 
 
-But while these labels shift easily, our allegiances don't.
+But while these labels and definitions shift easily, our allegiances to them don't.
 
 Comedians with strong politics have noticed this with their audiences over decades.  Those who had 'left-' or 'right-wing' audiences soon found they had a much wider spectrum of fans.   When I wrote a deconstruction of the Facebook privacy policy three years ago, it was read by over a million people, but that came in distinct waves: startup people, then doomsday preppers and conspiracy-theorists, then NRA supporters, then a bunch of Europeans who translated it into their native languages, and then when Trump was elected, American liberals. They all had this interest and fear in common, but good luck inviting them all to a meetup to talk about it.  
 
@@ -133,7 +154,7 @@ At first, being a peacenik lefty myself, I was disappointed and embarrassed that
 It's not always comfortable, and I have to remind myself this is a small price to pay for a world connected by empathy.
 
 ## Remove filters
-It might be tough to give up all that convenient, delivered information but remember that feeds don't need to come with filters.  RSS and blogs are still alive and well, and Twitter still gives you the option to turn off their feed prioritisation.  You can turn off Medium's filters by accessing subscribing through direct RSS subscriptions rather than 'following'. (It feels so much more genuine!) 
+It might be tough to give up all that convenient, delivered information but remember that feeds don't need to come with filters.  RSS and blogs are still alive and well, and Twitter still gives you the option to turn off their feed prioritisation. (So you get every post, not just the ones that keep you on Twitter longer.) You can turn off Medium's filters by accessing subscribing through direct RSS subscriptions rather than 'following'. (It feels so much more genuine!) 
 
 It's still filtered in a way, because you filter what you read based on what you choose to subscribe to, but you control the filter.
 
@@ -143,7 +164,7 @@ About a week before Catalonian referendum, I noticed the disinformation machine 
 
 So I started reaching out to Spanish people I knew, both from my short time living in Barcelona and my various startup activities in Madrid and Brussels, asking them for their experience and for guidance.
 
-By that time, it was clearly such an emotional thing.  That was clear in how they communicated (or reacted angrily that I would ask such stupid questions!).  But in a few cases, people were able to respond to my questions with facts.  That was immensely helpful for me.
+By that time, it was clearly such an emotional thing.  That was clear in how they communicated (or reacted angrily that I would ask such stupid questions!).  But in a few cases, people were able to respond to my questions with facts.  That was really helpful for me.
 
 If we're lucky enough to have made personal connections all over the world, one on one conversations are so much better than one-to-many broadcasts.  They're more real and honest.
 
@@ -156,11 +177,11 @@ On top of this, Facebook has the right to get your transaction information from 
 
 All of this information is difficult to manipulate and fake.
 
-After spending a few months understanding machine learning, I realised that it doesn't really work technically either.  The algorithms that find useful conclusions about you - like your political leanings or your health status - are based on finding needles in the haystack of all this data about you.  You can temporarily introduce other needles, but the real ones are still always there and always clearer.
+After spending a few months understanding machine learning, I realised that 'faking' doesn't really work technically either.  The algorithms that find useful conclusions about you - like your political leanings or your health status - are based on finding needles in the haystack of all this data about you.  You can temporarily introduce other needles, but the real ones are still always there and always clearer.
 
 The only way to stop this is to not provide the haystack.  Hide it.  The way to beat these systems is to starve them.
 
-If you don't want to be listened into, then you have to uninstall FB Messenger or physically cover your mic. (Electric tape is good for this and isn't noticeable.) 
+If you don't want to be listened into, then you have to uninstall FB Messenger or physically cover your mic. (Black electric tape is good for this and isn't noticeable.) 
 
 If you don't want Facebook to get your banking information, you have to delete your account, thus revoking the right you grant them in the Terms Of Service.
 
@@ -170,14 +191,15 @@ There are a lot of easy tools out there that prevent systems from identifying yo
 
 * VPNs and Tor block your IP address.  These are easier than you think, and there are even free VPNs.
 * NoScript and Privacy Badger block your browser fingerprint.
+* Firefox Tracking Protection blocks ad networks and social networks from collecting information about you when you're on other sites.
 
 Those are easy, and come with only tiny inconveniences.
 
 Mobile phones, on the other hand, are a free-for-all on your personal information.  Aside from the insecurity of the devices themselves, phones are designed to identify the user.  And app permissions are a joke too.  Try to use the mobile web version instead of the native app if you can.
 
-This starts to get into device security, but if you want to look into more secure phones, take a look at Replicant phones from Technoethical or Purism.  I'm looking forward to the Neo900, which isolates the phone's baseband from the main computer.
+This starts to get into device security, but if you want to look into more secure phones, take a look at [Replicant](http://replicant.us) phones from [Technoethical](http://technoethical.com) or [Purism](http://puri.sm).  I'm looking forward to the [Neo900](https://neo900.org/), which isolates the phone's baseband from the main computer.
 
-These days, I'm experimenting with the idea of no phone.  I have a feature phone, and I often just leave it at home.  Once I got over the mild anxiet of not being connected, I started to experience the world more in more vivid detail. It's weird, but I started to hear more things when out for a walk.
+These days, I'm experimenting with the idea of no phone.  I have a feature phone, and I often just leave it at home.  Once I got over the mild anxiety of not being connected, I started to experience the world more in more vivid detail. It's weird, but I started to hear more things when out for a walk.
 
 ## Support EU Directives and organisations like Mozilla, EFF and FSF
 
@@ -193,10 +215,6 @@ When I switched to Linux, it was a pain.  But I did it because I wanted to learn
 
 I got off Facebook years ago, and it came with its costs. But there are plenty of people who quit before me, and said how life good was.  It took a while, but I got there.  Now, when I see someone on Facebook, it looks so old-fashioned, like Yahoo, and when I look at the shit that they're looking at, it seems like deluxe spam, or people being fake.  My friend lost his dog a few months back, and felt he should load up his unused Facebook account to share the news, but when it came time to type, he realised this form of communication was actually too impersonal.
 
-Bulgarians never lost their self-determination.  Even when their Information Horizons were collapsing around them, they maintained this sense of personal control, and their pragmatism and work ethic allowed them to turn the tide.
-
 We have a lot better options, if we're willing to do even a bit of work.  You can get back a lot with just a little: a deeper sense of connection to people, a better understanding of what affects us, and regained self-determination.
-
-
 
 

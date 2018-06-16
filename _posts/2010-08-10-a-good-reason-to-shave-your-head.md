@@ -3,6 +3,7 @@ layout: post
 title:  "A good reason to shave your head."
 date:   2010-08-10
 tags:   personal
+featured: true
 ---
 
 <script type="text/javascript">// < ![CDATA[

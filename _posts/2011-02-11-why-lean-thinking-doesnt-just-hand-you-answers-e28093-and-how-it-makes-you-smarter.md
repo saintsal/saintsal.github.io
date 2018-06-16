@@ -3,6 +3,7 @@ layout: post
 title:  "Why Lean Thinking Doesn't Just Hand You Answers"
 date:   2011-02-11 15:13:33
 tags:   lean-startup education
+featured: true
 ---
 
 Lean Thinking is a key foundation of Lean Startup, and there's something at its core which makes it stand out but also leads to a lot of misunderstanding.
