@@ -38,7 +38,7 @@ td.post-meta { width: 7rem; vertical-align: top; line-height: 22px; }
 .site-footer ul, ul.books { list-style-type: none; padding-left: 0; }
 .site-footer li { padding: 0 2rem 0 0; margin: 0; display: inline; }
 .site-footer a { text-decoration: none; }
-.books li { padding: 0; margin: 0; float: left; width: 50%; }
+.books li { padding: 0; margin: 0; float: left; width: 30%; padding-right: 3%; }
 .books .title {font-weight: bold; }
 .books a { text-decoration: none; }
 
