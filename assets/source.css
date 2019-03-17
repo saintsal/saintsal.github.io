@@ -1,6 +1,6 @@
 body { font-family: 'Oxygen', sans-serif; font-size: 16px; line-height: 26px; max-width: 30rem; margin: 0px auto; padding: 0 0.5rem; color: #404040; background: #fff; width: 84%; padding-top: 3rem; }
 p { margin-bottom: 40px}
-h2 {margin-bottom: 0}
+h2 {margin-bottom: 0;     clear: left;    padding-top: 2rem;}
 img { width: 100%; } 
 ul { padding-left: 1em; }
 form { border: 1px #000 solid; padding: 10%; width: 100%; max-width: 90%; margin-left: -10%; margin-top: 3rem; margin-bottom: 3rem; font-size: 80%; line-height: 130%; text-align: center;}
