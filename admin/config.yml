@@ -1,0 +1,14 @@
+# config.yml
+
+backend:
+  name: github
+  repo: saintsal/saintsal.github.io
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'images'
+collections:
+  - name: 'blog'
+    label: 'Blog'
+    folder: '_posts/'
+    slug: '/{{category}}/{{title}}/'
+    fields:
+      - { name: Title }
