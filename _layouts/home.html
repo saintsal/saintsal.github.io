@@ -6,30 +6,40 @@ layout: default
 <div class="home">
 
   {{ content }}
+
+  <p>Hey Sal, where have you been?
+
+<p>After a bad experience with development politics, I walked away.  Focusing on personal life, I got married, set up a home, quit traveling and got healthy again!  
+
+
+
+  <hr>
+
+
   
-  <a href="{{ "/" | relative_url }}"><img class="profile-image" src="{{ '/images/salim_virani.png' | relative_url }}"></a>
-  <p>Hi, I'm Salim, a tech entrepreneur and educator.  I'm the founder of <a href="http://source.institute">Source Institute</a>, which designs <a href="http://community.source.institute/t/the-source-thesis/47">peer learning</a> programmes for fast-changing, multi-disciplinary topics.  
-  
-  <p>I also started <a href="http://thesources.co">Africa's largest dedicated tech entrepreneurship course</a>, Europe's first <a href="http://foundercentric.com">entrepreneur-led education company</a> , and a global community <a href="http://leancamp.net">that developed The Lean Startup movement</a>.
+  <p>I'm the founder of <a href="http://source.institute">Source Institute</a>, a skunkworks for peer learning projects, Europe's first <a href="http://foundercentric.com">entrepreneur-led education company</a> , and a global community <a href="http://leancamp.net">that developed The Lean Startup movement</a>.
    <p>My work has been used at Seedcamp, Techstars, Oxford Univsersity, UCL, Imperial College, Unilever, and the UK Royal Academy Of Engineering.
-  <p>I write about peer learning, humanitech, and privacy. You can <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
+<p>These days, I'm wrapping my head around new "code-only" technologies, setting up to make new education, communication and privacy tools.
 
   <h2>Books</h2>
 
   <ul class="books">
   <li><a href="http://mentorimpact.com"><img src="{{ "/assets/images/mentorimpactcover.png" | relative_url }}">
-    <span class="title">Mentor Impact</span> - mentor techniques from the best in top-performing accelerators</a>
+    <span class="title">Mentor Impact</span> - techniques from top accelerators</a>
     </li>
     
   <li><a href="http://decisionhacks.co"><img src="{{ "/assets/images/decisionhackscover.png" | relative_url }}">
-    <span class="title">Decision Hacks</span> - how startup founders make good decisions fast</a>
+    <span class="title">Decision Hacks</span> - early-stage startup decisions, fast</a>
     </li>
 
-    <li><a href="http://peerlearning.guide"><img src="{{ "/assets/images/peerlearningguidecover.png" | relative_url }}">
-    <span class="title">The Peer Learning Guide</span> - designing education programs for fast-changing topics</a></li>
+    <li><a href="https://peerlearning.is"><img src="{{ "/assets/images/peerlearningguidecover.png" | relative_url }}">
+    <span class="title">Peer Learning Is</span> - education for fast-changing topics</a></li>
+
     </ul>
   <h2>Blog</h2>
  
+  <p>I write about peer learning, humanitech, and privacy. You can <a href="http://eepurl.com/bavfAb">get my writing by email. <i class="fa fa-envelope"></i></a>
+
   <table class="post-list">
     {% for post in site.posts %}
       {% if post.featured == true %}
