@@ -3,7 +3,6 @@ layout: post
 title:  "Why the startup rules have changed, and we're plodding along blindly."
 date:   2013-01-07 15:13:33
 tags:   startups growth-economies leadership
-featured: true
 ---
 
 Sometimes you <del>see it coming</del> <span style="text-decoration: underline;">totally miss it. </span>

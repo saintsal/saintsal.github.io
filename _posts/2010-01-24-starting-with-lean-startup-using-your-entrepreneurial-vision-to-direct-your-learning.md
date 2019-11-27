@@ -3,7 +3,6 @@ layout: post
 title:  "Starting with Lean Startup - Using your entrepreneurial vision to direct your learning"
 date:   2010-01-24 15:13:33
 tags:   lean-startup
-featured: true
 ---
 
 When applying Lean Startup principles, it's easy to fall into a visionary mode in a way that can interfere with the learning process. I've found that thinking of my vision in terms of assumptions helps me to stay focused on learning the right things at the right time. Here's how I do it.

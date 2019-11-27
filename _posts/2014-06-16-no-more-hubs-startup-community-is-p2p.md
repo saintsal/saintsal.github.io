@@ -3,7 +3,6 @@ layout: post
 title:  "No more hubs: startup community is P2P"
 date:   2014-06-16 12:33:50
 tags:   community
-featured: true
 ---
 
 Startup capitals are an out-dated concept. 

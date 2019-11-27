@@ -3,7 +3,6 @@ layout: post
 title:  "Information Horizons"
 date:   2017-12-24
 tags:   privacy
-featured: true
 ---
 
 After the NSA, Facebook and Cambridge Analytica practices hit home, it's understandable if you feel there's nothing you can do to protect yourself.  There is.   I was [a few years ahead in predicting these problems](http://salimvirani.com/facebook/), and have since figured out some ways to protect myself.
